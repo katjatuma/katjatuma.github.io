@@ -54,4 +54,4 @@ Empirical Software Engineering ([DIT278](https://www.gu.se/en/study-gothenburg/e
 
 Foraging mushrooms. This is what I see when I look at a forest. Recently also rock-climbing.
 
-<img src="gobe.png" style="width: 45%;"> <img src="climb.jpg" style="width: 45%;">
+<img src="gobe.png" style="width: 49%;"> <img src="climb.jpg" style="width: 49%;">

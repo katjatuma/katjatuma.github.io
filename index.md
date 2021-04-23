@@ -2,7 +2,7 @@
 Katja Tuma holds a Ph.D. in Computer Science and Engineering, completed at the [University of Gothenburg](https://www.gu.se). In 2021 Katja joined the [Foundational Security](https://www.cs.vu.nl/en/research/computer-systems/foundational-security/index.aspx) research group (chaired by Prof. Fabio Massacci) as Assistant Professor (Universitair docent 2) and is working at the Department of Computer Science at [Vrije Universiteit Amsterdam](https://www.cs.vu.nl/en/).
 
 
-She pursued her Ph.D. degree under the supervision of Prof. Riccardo Scandariato on the topic of **secure software design** in Sweden. She was hosted by Jan Jürjens at the [RGSE group](https://rgse.uni-koblenz.de/web/pages/home/index_en.shtml) (at the University of Koblenz-Landau) as a visiting researcher for three months, for which she was awarded the DAAD scholarship. She also takes an active role in the community, for instance by serving as a PC member and reviewer. In addition to her academic service, Katja has actively contributed to the undergraduate education at the University of Gothenburg by helping to **design a new course** from scratch (Mathematical Foundations for Software Engineering), which she taught for four consecutive years. 
+She pursued her Ph.D. degree under the supervision of Prof. Riccardo Scandariato on the topic of **secure software design** in Sweden. She was hosted by Jan Jürjens at the [RGSE group](https://rgse.uni-koblenz.de/web/pages/home/index_en.shtml) (at the University of Koblenz-Landau) as a visiting researcher for three months, for which she was awarded the DAAD scholarship. She also takes an active role in the community, for instance by serving as a PC member and reviewer. In addition to her academic service, Katja has actively contributed to the undergraduate education at the University of Gothenburg by helping to design a new course (Mathematical Foundations for Software Engineering), which she taught for four consecutive years. 
 
 
 # Research
@@ -41,7 +41,7 @@ My research interests are in the area of secure software design with the focus o
 Co-creation, coordination and assistance in teaching the B.Sc **flipped classroom** course Mathematical Foundations or Software Engineering ([DIT022](https://kursplaner.gu.se/pdf/kurs/en/DIT022)).
 
 ## Teaching assistance
-Empirical Software Engineering ([DIT278](https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278)), Software Design and Analysis ([DIT184](https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184))
+Empirical Software Engineering ([DIT278](https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278)), Software Analysis and Design ([DIT184](https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184))
 
 ## Supervision
 - *Automatic Extraction of Security Relevant Information from Source Code for Formally Based Security Models.* Neda Fahrad (M.Sc)

@@ -49,15 +49,18 @@ Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/e
 - *Design Flaws as Security Threats.* Danial Hosseini, Kyriakos Malamas (M.Sc), *co-supervisor* 
 
 # Service
+
 Reviewer:
-	- the Information and Software Technology journal (IST)
-	- the Journal of Systems and Software (JJS)
-	- the International Journal on Software and Systems Modeling (SoSyM)
+- the Information and Software Technology journal (IST)
+- the Journal of Systems and Software (JJS)
+- the International Journal on Software and Systems Modeling (SoSyM)
+
 PC Member: 
-	- International Workshop on Graphical Models for Security (GraMSec 2020)
-	- International Workshop on Security for and by Model- Driven Engineering (SecureMDE 2020)
+- International Workshop on Graphical Models for Security (GraMSec 2020)
+- International Workshop on Security for and by Model- Driven Engineering (SecureMDE 2020)
+
 Shadow PC Member:
-	- Mining Software Repositories Conference (MSR 2021)
+- Mining Software Repositories Conference (MSR 2021)
 
 # Fun
 

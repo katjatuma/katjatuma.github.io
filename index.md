@@ -12,23 +12,23 @@ In my research, I work on observing and helping experts to counter cyber-securit
 
 ## Selected publications
 
-### Journals
+<h3>Journals</h3>
 
 - _Finding Security Threats That Matter: Two Industrial Case Studies_, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, **in submission** to Journal of Systems and Software (JSS)	
 - _Checking Security Compliance between Models and Code_, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, **in submission** to Journal on Software and Systems Modeling (SoSyM)
 
-### Conferences
+<h3>Conferences</h3>
 
 - <a href="https://dl.acm.org/doi/10.1145/3365438.3410954" target="_blank">Automating the Early Detection of Security Design Flaws</a>, K. Tuma, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020, Acceptance rate 26%
 - <a href="https://ieeexplore.ieee.org/document/8703905" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis</a>, K. Tuma, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA), 2019, Acceptance rate 22%
 
 
-### Workshops
+<h3>Workshops</h3>
 
 - <a href="https://link.springer.com/chapter/10.1007/978-3-319-72817-9_4" target="_blank">Towards security threats that matter</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017
 - <a href="https://dl.acm.org/doi/10.1145/3344948.3344995" target="_blank">Inspection Guidelines to Identify Security Design Flaws</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019
     
-### Dissertation
+<h3>Dissertation</h3>
 
 <a href="https://gupea.ub.gu.se/handle/2077/66967" target="_blank">Efficiency and Automation in Threat Analysis of Software Systems</a>, K. Tuma, Department of Computer Science and Engineering (University of Gothenburg), defended in January 2021
 
@@ -46,7 +46,15 @@ Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/e
 - *Design Flaws as Security Threats.* Danial Hosseini, Kyriakos Malamas (M.Sc), *co-supervisor* 
 
 # Service
-
+- Reviewer:
+	- the Information and Software Technology journal (IST)
+	- the Journal of Systems and Software (JJS)
+	- the International Journal on Software and Systems Modeling (SoSyM)
+- PC Member: 
+	- International Workshop on Graphical Models for Security (GraMSec 2020)
+	- International Workshop on Security for and by Model- Driven Engineering (SecureMDE 2020)
+- Shadow PC Member:
+	- Mining Software Repositories Conference (MSR 2021)
 
 # Fun
 

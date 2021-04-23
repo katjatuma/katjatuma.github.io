@@ -28,12 +28,12 @@ My research interests are in the area of secure software design with the focus o
 
 ### Workshops
 
-- <a href="https://link.springer.com/chapter/10.1007/978-3-319-72817-9_4" target="_blank">Towards security threats that matter</a>, **K. Tuma**, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017
+- <a href="https://link.springer.com/chapter/10.1007/978-3-319-72817-9_4" target="_blank">Towards security threats that matter</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017
 - <a href="https://dl.acm.org/doi/10.1145/3344948.3344995" target="_blank">Inspection Guidelines to Identify Security Design Flaws</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019
     
 ### Dissertation
 
-<a href="https://gupea.ub.gu.se/handle/2077/66967" target="_blank">Efficiency and Automation in Threat Analysis of Software Systems</a>, **K. Tuma**, Department of Computer Science and Engineering (University of Gothenburg), defended in January 2021
+<a href="https://gupea.ub.gu.se/handle/2077/66967" target="_blank">Efficiency and Automation in Threat Analysis of Software Systems</a>, K. Tuma, Department of Computer Science and Engineering (University of Gothenburg), defended in January 2021
 
 # Teaching
 

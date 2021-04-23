@@ -42,21 +42,21 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 
 Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278" target="_blank">DIT278</a>), Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>)
 
-** Supervision **
+**Supervision**
 
 - *Automatic Extraction of Security Relevant Information from Source Code for Formally Based Security Models.* Neda Fahrad (M.Sc)
 - *Towards Automating a Risk-First Threat Analysis Technique.* Karanveer Singh, Margit Saal, Andrius Sakalas (B.Sc)
 - *Design Flaws as Security Threats.* Danial Hosseini, Kyriakos Malamas (M.Sc), *co-supervisor* 
 
 # Service
-- Reviewer:
+Reviewer:
 	- the Information and Software Technology journal (IST)
 	- the Journal of Systems and Software (JJS)
 	- the International Journal on Software and Systems Modeling (SoSyM)
-- PC Member: 
+PC Member: 
 	- International Workshop on Graphical Models for Security (GraMSec 2020)
 	- International Workshop on Security for and by Model- Driven Engineering (SecureMDE 2020)
-- Shadow PC Member:
+Shadow PC Member:
 	- Mining Software Repositories Conference (MSR 2021)
 
 # Fun

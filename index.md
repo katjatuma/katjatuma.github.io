@@ -75,12 +75,15 @@ Empirical Software Engineering ([DIT278](https://www.gu.se/en/study-gothenburg/e
 
 
 # Fun
-- Foraging mushrooms and coming up with new recipes!
 
-Here is what my nearby forest looks like on my phone:
+Foraging mushrooms. This is what I see when I look at a forest.
 
-<img src="gobe.png" style="width: 80%;">
+<img src="gobe.png" style="width: 50%;">
 
-- Rock-climbing (more recently)
+Macro photography. Here is my husbands risotto.
 
-<img src="climb.jpg" style="width: 80%;">
+<img src="risotto.jpeg" style="width: 50%">
+
+Recently also rock-climbing.
+
+<img src="climb.jpg" style="width: 50%;">

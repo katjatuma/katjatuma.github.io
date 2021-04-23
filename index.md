@@ -52,14 +52,6 @@ Empirical Software Engineering ([DIT278](https://www.gu.se/en/study-gothenburg/e
 
 # Fun
 
-Foraging mushrooms. This is what I see when I look at a forest.
+Foraging mushrooms. This is what I see when I look at a forest. Recently also rock-climbing.
 
-<img src="gobe.png" style="width: 50%;">
-
-Macro photography. Here is my husbands risotto.
-
-<img src="risotto.jpeg" style="width: 50%">
-
-Recently also rock-climbing.
-
-<img src="climb.jpg" style="width: 50%;">
+<img src="gobe.png" style="width: 45%;"> <img src="climb.jpg" style="width: 45%;">

@@ -1,10 +1,10 @@
-# Welcome
+# Who am I
 
-I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-security/index.aspx" target="_blank">Foundational Security</a> research group (chaired by Prof. Fabio Massacci) as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>.
+ In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-security/index.aspx" target="_blank">Foundational Security</a> research group (chaired by Prof. Fabio Massacci) as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>.
 
 # Research
 
-My research interests are in the area of secure software design with the focus on:
+In my research, I work on observing and helping experts to counter cyber-security threats. I'm particularly interested in:
 
 - **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security, reverse engineering security.
 
@@ -45,6 +45,7 @@ Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/e
 - *Towards Automating a Risk-First Threat Analysis Technique.* Karanveer Singh, Margit Saal, Andrius Sakalas (B.Sc)
 - *Design Flaws as Security Threats.* Danial Hosseini, Kyriakos Malamas (M.Sc), *co-supervisor* 
 
+# Service
 
 
 # Fun

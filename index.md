@@ -4,7 +4,7 @@
 
 # Research
 
-In my research, I work on observing and helping experts to counter cyber-security threats. I'm particularly interested in:
+In my research, I work on observing and helping experts to counter security threats. I'm particularly interested in:
 
 - **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security, reverse engineering security.
 
@@ -40,7 +40,8 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 
 **Teaching assistance**
 
-Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278" target="_blank">DIT278</a>), Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>)
+- Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278" target="_blank">DIT278</a>)
+- Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>)
 
 **Supervision**
 
@@ -52,7 +53,7 @@ Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/e
 
 **Reviewer**
 - the Information and Software Technology journal (IST)
-- the Journal of Systems and Software (JJS)
+- the Journal of Systems and Software (JSS)
 - the International Journal on Software and Systems Modeling (SoSyM)
 
 **PC Member**

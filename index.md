@@ -4,7 +4,7 @@
 
 # Research
 
-In my research, I work on observing and helping experts to counter security threats. I'm particularly interested in:
+In my research, I work on observing and helping experts in their reasoning about how to handle security threats. I'm particularly interested in:
 
 - **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security, reverse engineering security.
 

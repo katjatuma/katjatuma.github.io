@@ -58,7 +58,7 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 
 **PC Member**
 - International Workshop on Graphical Models for Security (GraMSec 2020)
-- International Workshop on Security for and by Model- Driven Engineering (SecureMDE 2020)
+- International Workshop on Security for and by Model-Driven Engineering (SecureMDE 2020)
 
 **Shadow PC Member**
 - Mining Software Repositories Conference (MSR 2021)

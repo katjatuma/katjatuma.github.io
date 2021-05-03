@@ -1,6 +1,6 @@
 # Katja Tuma
 
- In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-security/index.aspx" target="_blank">Foundational Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>.
+ In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>.
 
 # Research
 

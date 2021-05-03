@@ -14,7 +14,7 @@ In my research, I work on observing and helping experts in their reasoning about
 
 **Journals**
 
-- <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, **Accepted** in Journal of Systems and Software (JSS)	
+- <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, **Accepted** at Journal of Systems and Software (JSS)	
 - _Checking Security Compliance between Models and Code_, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, **in submission** to Journal on Software and Systems Modeling (SoSyM)
 
 **Conferences**

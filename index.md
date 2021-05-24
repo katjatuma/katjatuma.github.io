@@ -2,16 +2,6 @@
 
  In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>.
  
-<table style="border-collapse: collapse; border: none;">
-	<colgroup>
-	   <col span="1" style="width: 15%;">
-	   <col span="1" style="width: 85%;">
-	</colgroup>
-	<tr style="border: none;">
-		<td style="border: none;"><img src="hiring.png"></td>
-		<td style="border: none;">Want to do a Ph.D.? Contact me, I'm hiring!</td>
-	</tr>
-</table>
  
 
 # Research

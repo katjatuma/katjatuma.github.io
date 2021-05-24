@@ -10,9 +10,9 @@
 
 # Research
 
-In my research, I work on observing and helping experts in their reasoning about how to handle security threats. I'm particularly interested in:
+I am passionate about building and evaluating methods for analyzing security threats and vulnerabilities in software systems. I like to work on solving practical problems with direct impact to the society. I particularly focus on:
 
-- **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security, reverse engineering security.
+- **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security.
 
 - **Empirical methods for security.** Designing and conducting controlled experiments, industrial case studies and studies involving human participants.
 

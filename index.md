@@ -4,7 +4,7 @@
 
 
 ---------
-<IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px"/> 
+<IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
 __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. 
 

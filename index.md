@@ -2,7 +2,11 @@
 
  In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. 
 
-[comment]: <> ( <IMG SRC="hiring.png" style="float: left; width:15%"/> <h7 style="float: left; width:80%; margin-top: 30px; margin-left: 20px;"> Want to do a Ph.D.? Contact me, I'm hiring! </h7><br><br> )
+<IMG SRC="hiring.png" style="float: left; width:15%"/> <h7 style="float: left; width:80%; margin-top: 30px; margin-left: 20px;"> 
+<b>2 research assistants (0.2 FTE) for 10 months</b> </br>
+Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. </h7><br><br>
+
+[comment]: <> (Read more <a href="">here</a>, and contact me. )
 
 # Research
 
@@ -14,18 +18,23 @@ I am passionate about building and evaluating methods for analyzing security thr
 
 ## Selected publications
 
-**Journals**
+**Articles**
 
-- <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, **Accepted** at Journal of Systems and Software (JSS)	
-- _Checking Security Compliance between Models and Code_, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, **in submission** to Journal on Software and Systems Modeling (SoSyM)
+- _Seven pain points of threat analysis & risk assessment in the automotive domain_ K. Tuma and M. Widman, **to appear** in IEEE Security & Privacy Magazine.
 
-**Conferences**
+- <a href="paper-preprints/security-compliance-checks-arXiv-21.pdf">Checking Security Compliance between Models and Code</a>, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, **in submission** to Journal on Software and Systems Modeling (SoSyM)
+
+- <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS), 2021.
+
+
+
+**Conference papers**
 
 - <a href="paper-preprints/tuma-MODELS2020.pdf" target="_blank">Automating the Early Detection of Security Design Flaws</a>, K. Tuma, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020, Acceptance rate 26%
 - <a href="paper-preprints/PID5773341.pdf" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis</a>, K. Tuma, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA), 2019, Acceptance rate 22%
 
 
-**Workshops**
+**Workshop papers**
 
 - <a href="paper-preprints/Towards%20Security%20Threats%20That%20Matter.pdf" target="_blank">Towards security threats that matter</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017
 - <a href="paper-preprints/TumaDesignFlaws_cam_doi.pdf" target="_blank">Inspection Guidelines to Identify Security Design Flaws</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019
@@ -38,9 +47,13 @@ I am passionate about building and evaluating methods for analyzing security thr
 
 **Course design and teaching**
 
+Currently working on new courses at the VU.
+
+Co-teacher for the M.Sc course Software Oriented Design (405061) with <a href="http://patricialago.nl">Patricia Lago</a> from the Software and Sustainability (S2) research group.
+
 Co-creation, coordination and assistance in teaching the B.Sc **flipped classroom** course Mathematical Foundations or Software Engineering (<a href="https://kursplaner.gu.se/pdf/kurs/en/DIT022" target="_blank">DIT022</a>).
 
-**Teaching assistance**
+**Previous teaching assistance**
 
 - Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278" target="_blank">DIT278</a>)
 - Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>)
@@ -54,16 +67,20 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 # Service
 
 **Reviewer**
+
 - the Information and Software Technology journal (IST)
 - the Journal of Systems and Software (JSS)
 - the International Journal on Software and Systems Modeling (SoSyM)
 
 **PC Member**
-- International Workshop on Graphical Models for Security (GraMSec 2020)
-- International Workshop on Security for and by Model-Driven Engineering (SecureMDE 2020)
 
-**Shadow PC Member**
-- Mining Software Repositories Conference (MSR 2021)
+- ACM Cloud Computing Security Workshop (CCSW'21) in conjunction with CCS'21 
+- International Workshop on Graphical Models for Security (GraMSec'20)
+- International Workshop on Security for and by Model-Driven Engineering (SecureMDE'20)
+
+**Shadow PC**
+
+- Mining Software Repositories Conference (MSR'21)
 
 # Fun
 

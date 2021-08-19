@@ -2,13 +2,14 @@
 
  In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. 
 
-<IMG SRC="hiring.png" style="float: left; width:15%"/> 
-<h7 style="float: left; width:80%; margin-top: 0px; margin-left: 20px;"> 
-**2 research assistants (0.2 FTE) for 10 months:**
-Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. 
-</h7>
+
+---------
+<IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px"/> 
+
+__2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. 
 
 [comment]: <> (Read more <a href="">here</a>, and contact me. )
+---------
 
 # Research
 

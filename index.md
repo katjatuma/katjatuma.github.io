@@ -4,8 +4,9 @@
 
 <IMG SRC="hiring.png" style="float: left; width:15%"/> 
 <h7 style="float: left; width:80%; margin-top: 0px; margin-left: 20px;"> 
-<b>2 research assistants (0.2 FTE) for 10 months</b> </br>
-Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. </h7><br><br>
+**2 research assistants (0.2 FTE) for 10 months:**
+Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. 
+</h7>
 
 [comment]: <> (Read more <a href="">here</a>, and contact me. )
 

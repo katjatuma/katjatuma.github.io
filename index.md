@@ -8,8 +8,7 @@
 
 __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Contact me. 
 
-[comment]: <> (Read more <a href="">here</a>, and contact me. )
----------
+--------------
 
 # Research
 

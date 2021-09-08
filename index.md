@@ -4,7 +4,7 @@
 
 
 ---------
-<IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 155px"/> 
+<IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 170px"/> 
 
 __Ph.D. Candidate on Diversity in Security Threat Analysis and Risk Assessment for 4 years:__ We are looking for a highly motivated and innovative candidate with a background in computer science / software engineering & architecture / security and risk analysis to tackle the investigation of diversity effects in threat analysis and risk assessment. Entry salary is €2,395 PM (first year) up to €3,061 PM. Read more <a href="vacancies/Vacancy_ phd in diversity effect on TA">here</a>, apply <a href="https://www.academictransfer.com/en/304160/phd-position-in-diversity-for-security-threat-and-risk-analysis/">here</a>. Apply until *October 30, 2021*.
 

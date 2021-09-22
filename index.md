@@ -6,7 +6,7 @@
 ---------
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 180px"/> 
 
-__Ph.D. Candidate on Diversity in Security Threat Analysis and Risk Assessment for 4 years:__ We are looking for a highly motivated and innovative candidate with a background in computer science / software engineering & architecture / security and risk analysis to tackle the investigation of diversity effects in threat analysis and risk assessment. Entry salary is €2,395 PM (first year) up to €3,061 PM. Read more <a href="vacancies/Vacancy_phd_on_diversity_effect_in_TARA.pdf">here</a>, apply <a href="https://www.academictransfer.com/en/304160/phd-position-in-diversity-for-security-threat-and-risk-analysis/">here</a>. Apply until *October 30, 2021*.
+__Ph.D. Candidate on Diversity in Security Threat Analysis and Risk Assessment for 4 years:__ We are looking for a highly motivated and innovative candidate with a background in computer science / software engineering & architecture / security and risk analysis to tackle the investigation of diversity effects in threat analysis and risk assessment. Entry salary is €2,395 PM (first year) up to €3,061 PM. Read more <a href="vacancies/vacancy-phd.pdf">here</a>, apply <a href="https://workingat.vu.nl/ad/phd-position-in-diversity-for-security-threat-and-risk-analysis/gesnnt">here</a>. Apply until *October 30, 2021*.
 
 __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Read more <a href="vacancies/NIAA-vacancy.pdf">here</a> and contact me. 
 

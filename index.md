@@ -20,6 +20,8 @@ I am passionate about building and evaluating methods for analyzing security thr
 
 - **Empirical methods for security.** Designing and conducting controlled experiments, industrial case studies and studies involving human participants.
 
+Are you interested to do a **thesis** with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
+
 ## Selected publications
 
 **Articles**

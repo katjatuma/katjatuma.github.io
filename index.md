@@ -72,7 +72,7 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 
 # Service
 
-**Program Co-Chair**
+**Proceedings Co-Chair**
 
 - International Conference on Evaluation and Assessment in Software Engineering (EASE) 2022
 

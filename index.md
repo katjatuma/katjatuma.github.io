@@ -3,6 +3,7 @@
  In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. 
 
 
+<!---
 ---------
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 180px"/> 
 
@@ -11,6 +12,7 @@ __Ph.D. Candidate on Diversity in Security Threat Analysis and Risk Assessment f
 __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Read more <a href="vacancies/NIAA-vacancy.pdf">here</a> and contact me. 
 
 --------------
+-->
 
 # Research
 
@@ -18,9 +20,22 @@ I am passionate about building and evaluating methods for analyzing security thr
 
 - **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security.
 
+- **Diversity effects in threat analysis.** Risk perception, gender bias, diversity processes in technical (i.e., cybersecurity) domain. 
+
 - **Empirical methods for security.** Designing and conducting controlled experiments, industrial case studies and studies involving human participants.
 
 Are you interested to do a **thesis** with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
+
+## Projects
+
+- Started an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>. 
+
+## Talks
+- November 2021, invited talk at research seminar organised by <a href="https://digitalsecurity.dtu.dk">DIGISEC</a> at the Technical University of Denmark (DTU).
+
+- October 2021, invited talk at research seminar organised by the <a href="https://rgse.uni-koblenz.de/web/pages/home/index_en.shtml">RGSE group</a> at the University of Koblenz Landau. 
+
+- September 2021, speaker at the Aurora Research Conference on the Digital Society and Global Citizenship. Watch <a href="https://www.youtube.com/watch?v=vXoE8V5aXGo">video</a>.
 
 ## Selected publications
 

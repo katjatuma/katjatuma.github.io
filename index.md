@@ -38,11 +38,17 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 I am passionate about building and evaluating methods for analyzing security threats and vulnerabilities in software systems. I like to work on solving practical problems with direct impact to the society. I particularly focus on:
 
 
-- **Empirical methods for security.** Designing and conducting controlled experiments, industrial case studies and studies involving human participants.
-- **Measuring human aspects (e.g., diversity) in security threat analysis.** Risk perception, gender bias, diversity processes in technical (i.e., security) domain. 
-- **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security.
+<ul>
+<li> 
+Empirical methods for security. Designing and conducting controlled experiments, industrial case studies and studies involving human participants. </li>
+<li> 
+Measuring human aspects (e.g., diversity) in security threat analysis.** Risk perception, gender bias, diversity processes in technical (i.e., security) domain. 
+</li>
+<li> 
+Security-by-design. Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security. </li>
+</ul>
 
-Are you interested to do a **thesis** with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
+Are you interested to do a <b>thesis</b> with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
 </p>
 
 ## Students

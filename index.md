@@ -172,7 +172,9 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 <li> International Workshop on Security for and by Model-Driven Engineering (SecureMDE'20) </li> 
 </ul>
 
-**Shadow PC**
+<h5 style="text-align: left;">
+Shadow PC
+</h5>
 
 <ul style="text-align: left;">
 <li> Mining Software Repositories Conference (MSR'21) </li> 

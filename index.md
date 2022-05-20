@@ -1,10 +1,10 @@
-# Katja Tuma
+![](data:image/jpeg;base64,dGhlbWU6IGpla3lsbC10aGVtZS1kaW5reQ==)# Katja Tuma
 
 In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. I am an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
 
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
-__2 research assistants (0.2 FTE) for 12 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research journey with the Twente University! Contact me. 
+__2 research assistants (0.2 FTE) for 12 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research jurney with the Twente University! Contact me. 
 
 
 <IMG SRC="hack1.pdf" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> 

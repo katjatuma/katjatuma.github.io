@@ -1,17 +1,21 @@
 # Katja Tuma
 
-<p style="float: left;">
+<p style="text-align: left;">
 In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. I am an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
 </p>
 
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
-__2 research assistants (0.2 FTE) for 12 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research jurney with the Twente University! Contact me. 
+<p style="text-align: left;">
+<b>2 research assistants (0.2 FTE) for 12 months:</b> Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research jurney with the Twente University! Contact me. 
+</p>
 
 
 <IMG SRC="hack1.pdf" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> 
 
-__Hack4her:__ Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us.
+<p style="text-align: left;">
+<b>Hack4her:</b> Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us.
+</p>
 
 
 <!---
@@ -30,6 +34,7 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 
 # Research
 
+<p style="text-align: left;">
 I am passionate about building and evaluating methods for analyzing security threats and vulnerabilities in software systems. I like to work on solving practical problems with direct impact to the society. I particularly focus on:
 
 
@@ -38,6 +43,7 @@ I am passionate about building and evaluating methods for analyzing security thr
 - **Security-by-design.** Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security.
 
 Are you interested to do a **thesis** with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
+</p>
 
 ## Students
 I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, but also co-supervise <a href="https://www.linkedin.com/in/samina-kanwal-77072262/?originalSubdomain=pk">Samina Kanwal</a>, <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and <a href="https://github.com/fminna">Francesco Minna</a>, all brilliant young minds undertaking their PhD studies at the VU.

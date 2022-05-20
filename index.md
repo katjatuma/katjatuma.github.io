@@ -71,7 +71,9 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 
 ## Selected publications
 
-**Articles**
+<h5 style="text-align: left;">
+Articles
+</h5>
 
 <ul style="text-align: left;">
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9529232">Seven pain points of threat analysis & risk assessment in the automotive domain (IEEE)</a>, K. Tuma and M. Widman, in IEEE Security & Privacy Magazine. </li> 
@@ -79,22 +81,28 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 <li> <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS), 2021. </li> 
 </ul>
 
-**Conference papers**
+<h5 style="text-align: left;">
+Conference papers
+</h5>
 
 <ul style="text-align: left;">
 <li> <a href="paper-preprints/tuma-MODELS2020.pdf" target="_blank">Automating the Early Detection of Security Design Flaws (PDF)</a>, K. Tuma, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020, Acceptance rate 26% </li> 
 <li> <a href="paper-preprints/PID5773341.pdf" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis (PDF)</a>, K. Tuma, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA), 2019, Acceptance rate 22% </li> 
 </ul>
 
-**Workshop papers**
+<h5 style="text-align: left;">
+Workshop papers
+</h5>
 
 <ul style="text-align: left;">
 <li> *The Role of Diversity in Cybersecurity Risk Analysis: An Experimental Plan*, K. Tuma, R. Van der Lee, Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering (GE@ICSE), 2022 </li> 
 <li> <a href="paper-preprints/Towards%20Security%20Threats%20That%20Matter.pdf" target="_blank">Towards security threats that matter (PDF)</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017 </li> 
 <li> <a href="paper-preprints/TumaDesignFlaws_cam_doi.pdf" target="_blank">Inspection Guidelines to Identify Security Design Flaws (PDF)</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019 </li> 
 </ul>
-    
-**Dissertation**
+   
+<h5 style="text-align: left;">
+Dissertation
+</h5>
 
 <p style="text-align: left;">
 <a href="paper-preprints/tuma-thesis-digital-copy.pdf" target="_blank">Efficiency and Automation in Threat Analysis of Software Systems (PDF)</a>, K. Tuma, Department of Computer Science and Engineering (University of Gothenburg), defended in January 2021
@@ -102,7 +110,9 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 
 # Teaching
 
-**Course design and teaching**
+<h5 style="text-align: left;">
+Course design and teaching
+</h5>
 
 <ul style="text-align: left;">
 <li> Data Structures and Algorithms, taught to BSc of AI </li> 
@@ -123,14 +133,18 @@ Co-teaching at the VU:
 Co-creation, coordination and assistance in teaching the B.Sc **flipped classroom** course Mathematical Foundations or Software Engineering (<a href="https://kursplaner.gu.se/pdf/kurs/en/DIT022" target="_blank">DIT022</a>).
 </p>
 
-**Previous teaching assistance**
+<h5 style="text-align: left;">
+Previous teaching assistance
+</h5>
 
 <ul style="text-align: left;">
 <li> Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278" target="_blank">DIT278</a>) </li> 
 <li> Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>) </li> 
 </ul>
 
-**Supervision**
+<h5 style="text-align: left;">
+Supervision
+</h5>
 
 <ul style="text-align: left;">
 <li> *Automatic Extraction of Security Relevant Information from Source Code for Formally Based Security Models.* Neda Fahrad (M.Sc) </li> 
@@ -140,19 +154,25 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 
 # Service
 
-**Organizer**
+<h5 style="text-align: left;">
+Organizer
+</h5>
 
 <ul style="text-align: left;">
 <li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa-ecsa-2022/home">DeMeSSA 2022</a> </li>
 </ul>
 
-**Proceedings Co-Chair**
+<h5 style="text-align: left;">
+Proceedings Co-Chair
+</h5>
 
 <ul style="text-align: left;">
 <li> International Conference on Evaluation and Assessment in Software Engineering (EASE) 2022 </li>
 </ul>
 
-**Reviewer**
+<h5 style="text-align: left;">
+Reviewer
+</h5>
 
 <ul style="text-align: left;">
 <li> the Information and Software Technology journal (IST) </li> 
@@ -162,7 +182,9 @@ Co-creation, coordination and assistance in teaching the B.Sc **flipped classroo
 <li> IEEE Vehicular Technology </li> 
 </ul>
 
-**PC Member**
+<h5 style="text-align: left;">
+PC Member
+</h5>
 
 <ul style="text-align: left;">
 <li> ESEC/FSE Industry Track 2022 </li> 

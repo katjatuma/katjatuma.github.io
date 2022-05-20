@@ -1,6 +1,8 @@
 # Katja Tuma
 
+<p style="float: left;">
 In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. I am an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
+</p>
 
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 

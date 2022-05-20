@@ -7,7 +7,7 @@ In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/
 __2 research assistants (0.2 FTE) for 12 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research journey with the Twente University! Contact me. 
 
 
-<IMG SRC="hack.pdf" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> 
+<IMG SRC="hack1.pdf" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> 
 
 __Hack4her:__ Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us.
 

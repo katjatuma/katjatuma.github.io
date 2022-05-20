@@ -38,7 +38,7 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 I am passionate about building and evaluating methods for analyzing security threats and vulnerabilities in software systems. I like to work on solving practical problems with direct impact to the society. I particularly focus on:
 
 
-<ul>
+<ul style="text-align: left;">
 <li> 
 Empirical methods for security. Designing and conducting controlled experiments, industrial case studies and studies involving human participants. </li>
 <li> 

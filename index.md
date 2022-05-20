@@ -2,6 +2,19 @@
 
 In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. I am an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
 
+<IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
+
+__2 research assistants (0.2 FTE) for 12 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research journey with the Twente University! Contact me. 
+
+
+<IMG SRC="hack.pdf" style="float: left; width:50%; margin-right: 20px; margin-bottom: 20px"/> 
+
+__Hack4her:__ Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us.
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <!---
 ---------
@@ -13,6 +26,9 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 
 --------------
 -->
+
+
+
 
 # Research
 

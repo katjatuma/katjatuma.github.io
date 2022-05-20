@@ -56,7 +56,7 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 **Articles**
 
 - <a href="https://ieeexplore.ieee.org/abstract/document/9529232">Seven pain points of threat analysis & risk assessment in the automotive domain (IEEE)</a>, K. Tuma and M. Widman, in IEEE Security & Privacy Magazine.
-- <a href="paper-preprints/security-compliance.pdf">Checking Security Compliance between Models and Code (PDF)</a>, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, in Journal on Software and Systems Modeling (SoSyM)
+- <a href="paper-preprints/Tuma2022_Article_CheckingSecurityComplianceBetw-2.pdf">Checking Security Compliance between Models and Code (PDF)</a>, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, in Journal on Software and Systems Modeling (SoSyM)
 - <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS), 2021.
 
 

@@ -7,7 +7,7 @@ In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
 <p style="text-align: left;">
-<b>2 research assistants (0.2 FTE) for 12 months:</b> Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threat? Join us in this exciting new interdisciplinary research jurney with the Twente University! Contact me. 
+<b>2 research assistants (0.2 FTE) for 12 months:</b> Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threats? Join us in this exciting new interdisciplinary research jurney with the Twente University! Contact me. 
 </p>
 
 

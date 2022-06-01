@@ -95,7 +95,7 @@ Workshop papers
 </h5>
 
 <ul style="text-align: left;">
-<li> The Role of Diversity in Cybersecurity Risk Analysis: An Experimental Plan, K. Tuma, R. Van der Lee, Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering (GE@ICSE), 2022 <a href="https://www.youtube.com/watch?v=7ye_AzFP3Ww&list=PLhqfzJAqZ77Cmby_zBr4ziI60SmOdy0uo&index=4">video</a></li> 
+<li> The Role of Diversity in Cybersecurity Risk Analysis: An Experimental Plan, K. Tuma, R. Van der Lee, Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering (GE@ICSE), 2022</li> 
 <li> <a href="paper-preprints/Towards%20Security%20Threats%20That%20Matter.pdf" target="_blank">Towards security threats that matter (PDF)</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017 </li> 
 <li> <a href="paper-preprints/TumaDesignFlaws_cam_doi.pdf" target="_blank">Inspection Guidelines to Identify Security Design Flaws (PDF)</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019 </li> 
 </ul>

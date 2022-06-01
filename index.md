@@ -41,7 +41,7 @@ I am passionate about building and evaluating methods for analyzing security thr
 <li> 
 Empirical methods for security. Designing and conducting controlled experiments, industrial case studies and studies involving human participants. </li>
 <li> 
-Measuring human aspects (e.g., diversity) in security threat analysis.** Risk perception, gender bias, diversity processes in technical (i.e., security) domain. 
+Measuring human aspects (e.g., diversity) in security threat analysis. Risk perception, gender bias, diversity processes in technical (i.e., security) domain. 
 </li>
 <li> 
 Security-by-design. Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security. </li>
@@ -95,7 +95,7 @@ Workshop papers
 </h5>
 
 <ul style="text-align: left;">
-<li> *The Role of Diversity in Cybersecurity Risk Analysis: An Experimental Plan*, K. Tuma, R. Van der Lee, Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering (GE@ICSE), 2022 </li> 
+<li> The Role of Diversity in Cybersecurity Risk Analysis: An Experimental Plan, K. Tuma, R. Van der Lee, Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering (GE@ICSE), 2022 <a href="https://www.youtube.com/watch?v=7ye_AzFP3Ww&list=PLhqfzJAqZ77Cmby_zBr4ziI60SmOdy0uo&index=4">video</a></li> 
 <li> <a href="paper-preprints/Towards%20Security%20Threats%20That%20Matter.pdf" target="_blank">Towards security threats that matter (PDF)</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017 </li> 
 <li> <a href="paper-preprints/TumaDesignFlaws_cam_doi.pdf" target="_blank">Inspection Guidelines to Identify Security Design Flaws (PDF)</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019 </li> 
 </ul>
@@ -130,7 +130,7 @@ Co-teaching at the VU:
 </ul>
 
 <p style="text-align: left;">
-Co-creation, coordination and assistance in teaching the B.Sc **flipped classroom** course Mathematical Foundations or Software Engineering (<a href="https://kursplaner.gu.se/pdf/kurs/en/DIT022" target="_blank">DIT022</a>).
+Co-creation, coordination and assistance in teaching the B.Sc flipped classroom course Mathematical Foundations or Software Engineering (<a href="https://kursplaner.gu.se/pdf/kurs/en/DIT022" target="_blank">DIT022</a>).
 </p>
 
 <h5 style="text-align: left;">
@@ -147,9 +147,9 @@ Supervision
 </h5>
 
 <ul style="text-align: left;">
-<li> *Automatic Extraction of Security Relevant Information from Source Code for Formally Based Security Models.* Neda Fahrad (M.Sc) </li> 
-<li> *Towards Automating a Risk-First Threat Analysis Technique.* Karanveer Singh, Margit Saal, Andrius Sakalas (B.Sc) </li> 
-<li> *Design Flaws as Security Threats.* Danial Hosseini, Kyriakos Malamas (M.Sc), *co-supervisor*  </li> 
+<li> Automatic Extraction of Security Relevant Information from Source Code for Formally Based Security Models. Neda Fahrad (M.Sc) </li> 
+<li> Towards Automating a Risk-First Threat Analysis Technique. Karanveer Singh, Margit Saal, Andrius Sakalas (B.Sc) </li> 
+<li> Design Flaws as Security Threats. Danial Hosseini, Kyriakos Malamas (M.Sc), co-supervisor  </li> 
 </ul>
 
 # Service

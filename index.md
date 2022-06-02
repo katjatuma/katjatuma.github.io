@@ -76,7 +76,6 @@ Articles
 </h5>
 
 <ul style="text-align: left;">
-<li> <a href="paper-preprints/ESEM_Replication_Report_2022__STRIDE_draft.pdf"> (PDF)</a>, K. Tuma, and W. Mbaka, in submission to International Symposium on Empirical Software Engineering and Measurement (ESEM)</li> 
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9529232">Seven pain points of threat analysis & risk assessment in the automotive domain (IEEE)</a>, K. Tuma and M. Widman, in IEEE Security & Privacy Magazine. </li> 
 <li> <a href="paper-preprints/Tuma2022_Article_CheckingSecurityComplianceBetw-2.pdf">Checking Security Compliance between Models and Code (PDF)</a>, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, in Journal on Software and Systems Modeling (SoSyM) </li> 
 <li> <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS), 2021. </li> 
@@ -87,6 +86,7 @@ Conference papers
 </h5>
 
 <ul style="text-align: left;">
+<li> <a href="paper-preprints/ESEM_Replication_Report_2022__STRIDE_draft.pdf"> (PDF)</a>, K. Tuma, and W. Mbaka, in submission to International Symposium on Empirical Software Engineering and Measurement (ESEM)</li> 
 <li> <a href="paper-preprints/tuma-MODELS2020.pdf" target="_blank">Automating the Early Detection of Security Design Flaws (PDF)</a>, K. Tuma, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020, Acceptance rate 26% </li> 
 <li> <a href="paper-preprints/PID5773341.pdf" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis (PDF)</a>, K. Tuma, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA), 2019, Acceptance rate 22% </li> 
 </ul>

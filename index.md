@@ -4,6 +4,31 @@
 In 2021 I joined the <a href="https://www.cs.vu.nl/en/research/computer-systems/foundational-and-experimental-security/index.aspx" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a>. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. I am an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
 </p>
 
+## Where to find me
+<table cellspacing="0" cellpadding="0" style="border: none;">
+  <tr>
+    <td>
+    <p align=left><b>Office: </b></br>
+		New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
+	 </p>
+	 </td>
+    <td>
+    <p align=left><b>Postal address: </b></br>
+	Vrije Universiteit Amsterdam </br>
+	Faculty of Sciences, </br>
+	Dept. of Computer Science,</br>
+	De Boelelaan 1111, </br>
+	1081 HV Amsterdam, The Netherlands</br>
+	</p>
+	</td>
+  </tr>
+</table>
+
+
+
+
+# News
+
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
 <p style="text-align: left;">

@@ -35,16 +35,23 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 
 ### Where to find me
 
-<p align=left><b>Office: </b></br>
+<p align=left>
+<h5>Office</h5>
 New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
 </p>
  
-<p align=left><b>Postal address: </b></br>
-Vrije Universiteit Amsterdam </br>
-Faculty of Sciences, </br>
-Dept. of Computer Science,</br>
-De Boelelaan 1111, </br>
-1081 HV Amsterdam, The Netherlands</br>
+<p align=left>
+<h5>Postal address</h5>
+Vrije Universiteit Amsterdam
+
+Faculty of Sciences, 
+
+Dept. of Computer Science,
+
+De Boelelaan 1111,
+
+1081 HV Amsterdam, The Netherlands
+
 </p>
 
 # Research

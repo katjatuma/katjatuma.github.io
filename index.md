@@ -214,7 +214,7 @@ Shadow PC
 New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
 </p>
  
-<p align=left>
+
 <h5>Postal address</h5>
 Vrije Universiteit Amsterdam </br>
 
@@ -224,9 +224,7 @@ Dept. of Computer Science, </br>
 
 De Boelelaan 1111, </br>
 
-1081 HV Amsterdam, The Netherlands</br>
-
-</p>
+1081 HV Amsterdam, The Netherlands </br>
 
 # Fun
 

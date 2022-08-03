@@ -7,17 +7,20 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 
 # News
 
+<!---
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
 <p style="text-align: left;">
 <b>2 research assistants (0.2 FTE) for 12 months:</b> Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in social engineering threats? Join us in this exciting new interdisciplinary research journey with the Twente University! Contact me. 
 </p>
+--->
 
 
-<IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> 
+<!---
+<IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> --->
 
 <p style="text-align: left;">
-<b>Hack4her:</b> Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us.
+<b>Hack4her:</b> Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us in 2023!
 </p>
 
 
@@ -31,28 +34,6 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 
 --------------
 -->
-
-
-### Where to find me
-
-<p align=left>
-<h5>Office</h5>
-New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
-</p>
- 
-<p align=left>
-<h5>Postal address</h5>
-Vrije Universiteit Amsterdam
-
-Faculty of Sciences, 
-
-Dept. of Computer Science,
-
-De Boelelaan 1111,
-
-1081 HV Amsterdam, The Netherlands
-
-</p>
 
 # Research
 
@@ -225,6 +206,27 @@ Shadow PC
 <ul style="text-align: left;">
 <li> Mining Software Repositories Conference (MSR'21) </li> 
 </ul>
+
+# Where to find me
+
+<p align=left>
+<h5>Office</h5>
+New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
+</p>
+ 
+<p align=left>
+<h5>Postal address</h5>
+Vrije Universiteit Amsterdam </br>
+
+Faculty of Sciences, </br>
+
+Dept. of Computer Science, </br>
+
+De Boelelaan 1111, </br>
+
+1081 HV Amsterdam, The Netherlands</br>
+
+</p>
 
 # Fun
 

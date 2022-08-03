@@ -216,15 +216,11 @@ New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
  
 
 <h5>Postal address</h5>
-Vrije Universiteit Amsterdam </br>
-
-Faculty of Sciences, </br>
-
-Dept. of Computer Science, </br>
-
-De Boelelaan 1111, </br>
-
-1081 HV Amsterdam, The Netherlands </br>
+Vrije Universiteit Amsterdam
+Faculty of Sciences,
+Dept. of Computer Science, 
+De Boelelaan 1111, 
+1081 HV Amsterdam, The Netherlands 
 
 # Fun
 

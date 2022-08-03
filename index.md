@@ -82,7 +82,7 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 <ul style="text-align: left;">
 <li> Involved in the Horizon2020 <a href="https://assuremoss.eu/en//">AssureMOSS</a> project. </li> 
 <li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with Jan-Willem Bullée at the University of Twente<a href="https://research.utwente.nl/en/persons/jan-willem-bullée"></a>.  </li> 
-<li> Leading an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>.  </li> 
+<li> Lead an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>.  </li> 
 </ul>
 
 ## Talks
@@ -109,7 +109,7 @@ Conference papers
 </h5>
 
 <ul style="text-align: left;">
-<li> <a href="paper-preprints/ESEM_Replication_Report_2022__STRIDE_draft.pdf"> Human Aspect of Threat Analysis: A Replication (PDF)</a>, K. Tuma, and W. Mbaka, in submission to International Symposium on Empirical Software Engineering and Measurement (ESEM)</li> 
+<li> <a href="paper-preprints/ESEM_Replication_Report_2022__STRIDE_arXiv.pdf"> Human Aspect of Threat Analysis: A Replication (PDF)</a>, K. Tuma, and W. Mbaka, in submission to International Symposium on Empirical Software Engineering and Measurement (ESEM)</li> 
 <li> <a href="paper-preprints/tuma-MODELS2020.pdf" target="_blank">Automating the Early Detection of Security Design Flaws (PDF)</a>, K. Tuma, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020, Acceptance rate 26% </li> 
 <li> <a href="paper-preprints/PID5773341.pdf" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis (PDF)</a>, K. Tuma, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA), 2019, Acceptance rate 22% </li> 
 </ul>

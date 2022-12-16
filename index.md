@@ -68,6 +68,7 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 
 ## Talks
 <ul style="text-align: left;">
+<li> December 2022, research talk at the Annual Meeting of Society for Risk Analysis <a href="https://youtu.be/ZsD39eWz9Ww">see video</a> in Tampa, Florida, US. </li> 
 <li> November 2021, invited talk at research seminar organised by <a href="https://digitalsecurity.dtu.dk">DIGISEC</a> at the Technical University of Denmark (DTU). </li> 
 <li> October 2021, invited talk at research seminar organised by the <a href="https://rgse.uni-koblenz.de/web/pages/home/index_en.shtml">RGSE group</a> at the University of Koblenz Landau.  </li> 
 <li> September 2021, speaker at the Aurora Research Conference on the Digital Society and Global Citizenship. Watch <a href="https://www.youtube.com/watch?v=vXoE8V5aXGo">video</a>. </li> 

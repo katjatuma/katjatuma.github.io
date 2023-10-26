@@ -56,10 +56,12 @@ Measuring human aspects (e.g., diversity) in security threat analysis. Risk perc
 </li>
 <li>
 Security4AI and AI4Security. Investigating how to secure AI, how AI could be used to support security activities, and which human factors that play a key role in practice.
+</li>
 </ul>
 
 Are you interested to do a <b>thesis</b> with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
 </p>
+
 
 ## Students
 <p style="text-align: left;">

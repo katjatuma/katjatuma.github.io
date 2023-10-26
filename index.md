@@ -20,7 +20,7 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 <IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> --->
 
 <p style="text-align: left;">
-Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact :tada:!
+Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact!
 </p>
 
 <p style="text-align: left;">
@@ -69,6 +69,7 @@ Are you interested to do a <b>thesis</b> with me? Find the current thesis topics
 I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, but also co-supervise <a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>, <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>, <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and <a href="https://github.com/fminna">Francesco Minna</a>, all brilliant young minds undertaking their PhD studies at the VU.
 </p>
 
+
 ## Active projects
 <ul style="text-align: left;">
 <li> Co-PI in the Horizon2022 <a href="https://cordis.europa.eu/project/id/101120393">Sec4AI4Sec</a> project. </li> 
@@ -76,6 +77,7 @@ I have the pleasure to work closely with <a href="https://winniebahati.github.io
 <li> Co-PI in the DIGITAL Europe <a href="https://www.eitmanufacturing.eu/news-events/activities/cyrus/">CYRUS</a> project. </li> 
 <li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with University of Twente.  </li> 
 </ul>
+
 
 ## Past projects
 <ul style="text-align: left;">

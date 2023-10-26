@@ -5,7 +5,7 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 </p>
 
 
-# News
+# News & Impact
 
 <!---
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
@@ -20,8 +20,13 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 <IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> --->
 
 <p style="text-align: left;">
-<b>Hack4her:</b> Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us in 2023!
+Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact :tada:!
 </p>
+
+<p style="text-align: left;">
+<b>Hack4her:</b> Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us this year!
+</p>
+
 
 
 <!---
@@ -38,7 +43,7 @@ __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived different
 # Research
 
 <p style="text-align: left;">
-I am passionate about building and evaluating methods for analyzing security threats and vulnerabilities in software systems. I like to work on solving practical problems with direct impact to the society. I particularly focus on:
+I am passionate about building and evaluating methods for analyzing security threats and vulnerabilities in software systems. I like to work on solving practical problems with direct impact. I particularly focus on:
 
 
 <ul style="text-align: left;">
@@ -47,8 +52,13 @@ Empirical methods for security. Designing and conducting controlled experiments,
 <li> 
 Measuring human aspects (e.g., diversity) in security threat analysis. Risk perception, gender bias, diversity processes in technical (i.e., security) domain. 
 </li>
-<li> 
+<li>
+Security4AI and AI4Security. Investigating how to secure AI, how AI could be used to support security activities, and which human factors that play a key role in practice.
+<!---
+---------
 Security-by-design. Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security. </li>
+--------------
+-->
 </ul>
 
 Are you interested to do a <b>thesis</b> with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
@@ -56,18 +66,27 @@ Are you interested to do a <b>thesis</b> with me? Find the current thesis topics
 
 ## Students
 <p style="text-align: left;">
-I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, but also co-supervise <a href="https://www.linkedin.com/in/samina-kanwal-77072262/?originalSubdomain=pk">Samina Kanwal</a>, <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and <a href="https://github.com/fminna">Francesco Minna</a>, all brilliant young minds undertaking their PhD studies at the VU.
+I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, but also co-supervise <a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>, <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>, <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and <a href="https://github.com/fminna">Francesco Minna</a>, all brilliant young minds undertaking their PhD studies at the VU.
 </p>
 
-## Projects
+## Active projects
 <ul style="text-align: left;">
-<li> Involved in the Horizon2020 <a href="https://assuremoss.eu/en//">AssureMOSS</a> project. </li> 
-<li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with Jan-Willem Bullée at the University of Twente<a href="https://research.utwente.nl/en/persons/jan-willem-bullée"></a>.  </li> 
+<li> Co-PI in the Horizon2022 <a href="https://cordis.europa.eu/project/id/101120393">Sec4AI4Sec</a> project. </li> 
+<li> Co-PI in the NWO-KIC <a href="https://www.nwo.nl/en/news/two-grants-awarded-within-kic-call-data-and-intelligence">HEWSTI</a> project. </li> 
+<li> Co-PI in the DIGITAL Europe <a href="https://www.eitmanufacturing.eu/news-events/activities/cyrus/">CYRUS</a> project. </li> 
+<li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with University of Twente.  </li> 
+</ul>
+
+## Past projects
+<ul style="text-align: left;">
 <li> Lead an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>.  </li> 
+<li> Involved in the Horizon2020 <a href="https://assuremoss.eu/en//">AssureMOSS</a> project. </li> 
 </ul>
 
 ## Talks
 <ul style="text-align: left;">
+<li> October 2023, research talk at the Annual Meeting of Society for Risk Analysis in Benelux in Brussels, Belgium. </li>
+<li> September 2023, research talk at the Institute for Programming research and Algorithmics (IPA) Fall Days in Zeewolde, the Netherlands. </li>
 <li> December 2022, research talk at the Annual Meeting of Society for Risk Analysis <a href="https://youtu.be/ZsD39eWz9Ww">see video</a> in Tampa, Florida, US. </li> 
 <li> November 2021, invited talk at research seminar organised by <a href="https://digitalsecurity.dtu.dk">DIGISEC</a> at the Technical University of Denmark (DTU). </li> 
 <li> October 2021, invited talk at research seminar organised by the <a href="https://rgse.uni-koblenz.de/web/pages/home/index_en.shtml">RGSE group</a> at the University of Koblenz Landau.  </li> 
@@ -121,7 +140,7 @@ Course design and teaching
 </h5>
 
 <ul style="text-align: left;">
-<li> Data Structures and Algorithms, taught to BSc of AI </li> 
+<li> Data Structures and Algorithms for AI (BSc course with 300 students)</li> 
 <li> Software Threat Analysis: Build-It-Break-It-Fix-It, taught to MSc of Computer Security </li> 
 </ul>
 
@@ -130,7 +149,6 @@ Co-teaching at the VU:
 </p>
 
 <ul style="text-align: left;">
-<li> Security and Safety Engineering, taught by Fabio Massacci to BSc of CS </li> 
 <li> Security Experiments and Measures, taught by Fabio Massacci to MSc of Computer Security </li> 
 <li> Guest lecture in the M.Sc course Software Oriented Design (405061) coordinated and taught by <a href="http://patricialago.nl">Patricia Lago</a> from the Software and Sustainability (S2) research group. </li> 
 </ul>
@@ -165,6 +183,7 @@ Organizer
 </h5>
 
 <ul style="text-align: left;">
+<li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa2023">DeMeSSA 2023</a> </li>
 <li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa-ecsa-2022/home">DeMeSSA 2022</a> </li>
 </ul>
 

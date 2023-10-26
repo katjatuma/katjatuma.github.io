@@ -37,6 +37,8 @@ __Ph.D. Candidate on Diversity in Security Threat Analysis and Risk Assessment f
 
 __2 research assistants (0.2 FTE) for 10 months:__ Are risks perceived differently (or equally) by male or female analysis? What other diversity processes are taking place in a threat analysis and risk assessment discussion? Join us in this exciting new interdisciplinary research journey! Read more <a href="vacancies/NIAA-vacancy.pdf">here</a> and contact me. 
 
+
+Security-by-design. Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security. </li>
 --------------
 -->
 
@@ -54,11 +56,6 @@ Measuring human aspects (e.g., diversity) in security threat analysis. Risk perc
 </li>
 <li>
 Security4AI and AI4Security. Investigating how to secure AI, how AI could be used to support security activities, and which human factors that play a key role in practice.
-<!---
----------
-Security-by-design. Threat modeling and risk analysis, automating security analysis of software architecture, compliance of code to the intended security. </li>
---------------
--->
 </ul>
 
 Are you interested to do a <b>thesis</b> with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!

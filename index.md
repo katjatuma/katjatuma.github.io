@@ -20,11 +20,11 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 <IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> --->
 
 <p style="text-align: left;">
-Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact!
+<b>Hack4her:</b> Are you driven to innovate and develop something cool? Hack4Her is the place for you: <a href="https://hack4her.github.io">here</a>. Join us at the Vrije Universiteit in June!
 </p>
 
 <p style="text-align: left;">
-<b>Hack4her:</b> Are you curious about hackathons and want to create something cool? Read more <a href="https://vu.nl/en/events/2022/hack4her">here</a> and join us this year!
+Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact!
 </p>
 
 
@@ -65,7 +65,12 @@ Are you interested to do a <b>thesis</b> with me? Find the current thesis topics
 
 ## Students
 <p style="text-align: left;">
-I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, but also co-supervise <a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>, <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>, <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and <a href="https://github.com/fminna">Francesco Minna</a>, all brilliant young minds undertaking their PhD studies at the VU.
+I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
+<a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
+<a href="https://github.com/fminna">Francesco Minna</a>,
+<a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>, 
+and
+<a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, all brilliant young minds undertaking their PhD studies at the VU.
 </p>
 
 

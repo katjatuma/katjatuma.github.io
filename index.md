@@ -20,7 +20,7 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 <IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> --->
 
 <p style="text-align: left;">
-<b>Hack4her:</b> Are you driven to innovate and develop something cool? Hack4Her is the place for you: <a href="https://hack4her.github.io">here</a>. Join us at the Vrije Universiteit in June!
+Are you driven to innovate and develop something cool? Hack4Her is the place for you: <a href="https://hack4her.github.io">here</a>. Join us at the Vrije Universiteit in June!
 </p>
 
 <p style="text-align: left;">

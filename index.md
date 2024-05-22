@@ -138,10 +138,10 @@ Conference papers
 A Palheiros da Silva, W Mbaka, J Mayer, JW Bullee, <b>K Tuma</b>, <a href="https://conf.researchr.org/details/ease-2024/ease-2024-papers/24/Does-trainer-gender-make-a-difference-when-delivering-phishing-training-A-new-experi">Does trainer gender make a difference when delivering phishing training? A new experimental design to capture bias</a>, International Conference on Evaluation and Assessment in Software Engineering (EASE)
 </li>
 
-<li>F Minna, F Massacci, <b>K Tuma</b>, <a href="https://doi.org/10.48550/arXiv.2403.09537">Analyzing and Mitigating (with LLMs) the Security Misconfigurations of Helm Charts from Artifact Hub: Registered Report</a>, International Symposium on Empirical Software Engineering and Measurement
+<li>F Minna, F Massacci, <b>K Tuma</b>, <a href="https://doi.org/10.48550/arXiv.2403.09537">Analyzing and Mitigating (with LLMs) the Security Misconfigurations of Helm Charts from Artifact Hub: Registered Report</a>, International Symposium on Empirical Software Engineering and Measurement (ESEM)
 </li>
 
-<li> F Minna, F Massacci, <b>K Tuma</b>, <a href="https://doi.org/10.48550/arXiv.2205.14498">Towards a Security Stress-Test for Cloud Configurations</a> International Conference on Cloud Computing
+<li> F Minna, F Massacci, <b>K Tuma</b>, <a href="https://doi.org/10.48550/arXiv.2205.14498">Towards a Security Stress-Test for Cloud Configurations</a> International Conference on Cloud Computing (CLOUD)
 </li>
 
 

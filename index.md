@@ -67,6 +67,7 @@ Are you interested to do a <b>thesis</b> with me? Find the current thesis topics
 <p style="text-align: left;">
 I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
 <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
+and co-supervise
 <a href="https://github.com/fminna">Francesco Minna</a>,
 <a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>, 
 and
@@ -91,6 +92,7 @@ and
 
 ## Talks
 <ul style="text-align: left;">
+<li> ***upcoming*** October 2024, invited speaker at Alice&Eve 2024 in Leiden. </li>
 <li> October 2023, research talk at the Annual Meeting of Society for Risk Analysis in Benelux in Brussels, Belgium. </li>
 <li> September 2023, research talk at the Institute for Programming research and Algorithmics (IPA) Fall Days in Zeewolde, the Netherlands. </li>
 <li> December 2022, research talk at the Annual Meeting of Society for Risk Analysis <a href="https://youtu.be/ZsD39eWz9Ww">see video</a> in Tampa, Florida, US. </li> 
@@ -106,9 +108,17 @@ Articles
 </h5>
 
 <ul style="text-align: left;">
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/9529232">Seven pain points of threat analysis & risk assessment in the automotive domain (IEEE)</a>, K. Tuma and M. Widman, in IEEE Security & Privacy Magazine. </li> 
-<li> <a href="paper-preprints/Tuma2022_Article_CheckingSecurityComplianceBetw-2.pdf">Checking Security Compliance between Models and Code (PDF)</a>, K. Tuma, S. Peldszus, R. Scandariato, J. Jürjens, in Journal on Software and Systems Modeling (SoSyM) </li> 
-<li> <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, K. Tuma, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS), 2021. </li> 
+
+<li> W Mbaka, S Gerwen and <b>K. Tuma</b>. <a href="http://dx.doi.org/10.2139/ssrn.4799844">Human Factors in Security Risk Analysis of Software Systems: A Systematic Literature Review</a>, in submission to Computers and Security </li>
+ 
+<li> Á Milánkovich, <b>K Tuma</b>. <a href="https://doi.org/10.1109/MSEC.2023.3311464">Delta Security Certification for Software Supply Chains</a> IEEE Security & Privacy Magazine  </li>
+
+<li> <b>K. Tuma</b> and M. Widman, <a href="https://ieeexplore.ieee.org/abstract/document/9529232">Seven pain points of threat analysis & risk assessment in the automotive domain (IEEE)</a>, in IEEE Security & Privacy Magazine </li> 
+
+
+<li> <b>K. Tuma</b>, S. Peldszus, R. Scandariato, J. Jürjens, <a href="paper-preprints/Tuma2022_Article_CheckingSecurityComplianceBetw-2.pdf">Checking Security Compliance between Models and Code (PDF)</a>, in Journal on Software and Systems Modeling (SoSyM) </li> 
+
+<li> <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, <b>K. Tuma</b>, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS) </li> 
 </ul>
 
 <h5 style="text-align: left;">
@@ -116,9 +126,30 @@ Conference papers
 </h5>
 
 <ul style="text-align: left;">
-<li> <a href="paper-preprints/ESEM_Replication_Report_2022__STRIDE_arXiv.pdf"> Human Aspect of Threat Analysis: A Replication (PDF)</a>, K. Tuma, and W. Mbaka, in submission to International Symposium on Empirical Software Engineering and Measurement (ESEM)</li> 
-<li> <a href="paper-preprints/tuma-MODELS2020.pdf" target="_blank">Automating the Early Detection of Security Design Flaws (PDF)</a>, K. Tuma, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020, Acceptance rate 26% </li> 
-<li> <a href="paper-preprints/PID5773341.pdf" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis (PDF)</a>, K. Tuma, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA), 2019, Acceptance rate 22% </li> 
+<li> W Mbaka and <b>K Tuma</b>, <a href="https://doi.org/10.1109/MSEC.2023.3343837">Role of Gender in the Evaluation of Security Decisions</a>, IEEE Security & Privacy 
+</li>
+
+<li>
+A Palheiros da Silva, W Mbaka, J Mayer, JW Bullee, <b>K Tuma</b>, <a href="https://conf.researchr.org/details/ease-2024/ease-2024-papers/24/Does-trainer-gender-make-a-difference-when-delivering-phishing-training-A-new-experi">Does trainer gender make a difference when delivering phishing training? A new experimental design to capture bias</a>, International Conference on Evaluation and Assessment in Software Engineering (EASE)
+</li>
+
+<li>F Minna, F Massacci, <b>K Tuma</b>, <a href="https://doi.org/10.48550/arXiv.2403.09537">Analyzing and Mitigating (with LLMs) the Security Misconfigurations of Helm Charts from Artifact Hub: Registered Report</a>, International Symposium on Empirical Software Engineering and Measurement
+</li>
+
+<li> F Minna, F Massacci, <b>K Tuma</b>, <a href="https://doi.org/10.48550/arXiv.2205.14498">Towards a Security Stress-Test for Cloud Configurations</a> International Conference on Cloud Computing
+</li>
+
+
+<!--<li> <a href="paper-preprints/ESEM_Replication_Report_2022__STRIDE_arXiv.pdf"> Human Aspect of Threat Analysis: A Replication (PDF)</a>, <b>K Tuma</b>, and W. Mbaka, in submission to International Symposium on Empirical Software Engineering and Measurement (ESEM) </li> 
+-->
+
+<li> <a href="paper-preprints/tuma-MODELS2020.pdf" target="_blank">Automating the Early Detection of Security Design Flaws (PDF)</a>, <b>K Tuma</b>, L. Sion, R. Scandariato, and K. Yskout, International Conference on Model Driven Engineering Languages and Systems (MODELS)
+<!--, Acceptance rate 26% -->
+</li> 
+
+<li> <a href="paper-preprints/PID5773341.pdf" target="_blank">Flaws in flows: Unveiling design flaws via information flow analysis (PDF)</a>, <b>K Tuma</b>, M. Balliu, R. Scandariato, International Conference on Software Architecture (ICSA) 
+<!--Acceptance rate 22% -->
+</li> 
 </ul>
 
 <h5 style="text-align: left;">
@@ -156,21 +187,21 @@ Co-teaching at the VU:
 
 <ul style="text-align: left;">
 <li> Security Experiments and Measures, taught by Fabio Massacci to MSc of Computer Security </li> 
-<li> Guest lecture in the M.Sc course Software Oriented Design (405061) coordinated and taught by <a href="http://patricialago.nl">Patricia Lago</a> from the Software and Sustainability (S2) research group. </li> 
+<li> Guest lecture in the M.Sc course Software Oriented Design (405061) coordinated and taught by at the Software and Sustainability (S2) research group. </li> 
 </ul>
 
 <p style="text-align: left;">
 Co-creation, coordination and assistance in teaching the B.Sc flipped classroom course Mathematical Foundations or Software Engineering (<a href="https://kursplaner.gu.se/pdf/kurs/en/DIT022" target="_blank">DIT022</a>).
 </p>
 
-<h5 style="text-align: left;">
+<!--<h5 style="text-align: left;">
 Previous teaching assistance
 </h5>
 
 <ul style="text-align: left;">
 <li> Empirical Software Engineering (<a href="https://www.gu.se/en/study-gothenburg/empirical-software-engineering-dit278" target="_blank">DIT278</a>) </li> 
 <li> Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>) </li> 
-</ul>
+</ul>-->
 
 <h5 style="text-align: left;">
 Supervision
@@ -189,6 +220,8 @@ Organizer
 </h5>
 
 <ul style="text-align: left;">
+<li> Formed an ACCSS working group on Security & AI (upcoming first meeting in September 2024) </li>
+<li> The 4th International Workshop on Designing and Measuring Security in Software with AI (DeMeSSAI) - in submission to ACSAC </li>
 <li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa2023">DeMeSSA 2023</a> </li>
 <li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa-ecsa-2022/home">DeMeSSA 2022</a> </li>
 </ul>

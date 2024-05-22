@@ -24,9 +24,9 @@ Are you a driven student and want to innovate and develop something cool? Hack4H
 </p>
 
 <ul>
-<li>
+<li style="text-align: left;">
 Excited to share that I will be speaking at this year's <a href="https://ict-research.nl/2024/03/2023-alice-and-eve/">Alice & Eve</a>.</li>
-<li>
+<li style="text-align: left;">
 Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact!
 </li>
 </ul>

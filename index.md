@@ -84,7 +84,6 @@ and
 <ul style="text-align: left;">
 <li> Co-PI in the Horizon2022 <a href="https://cordis.europa.eu/project/id/101120393">Sec4AI4Sec</a> project. </li> 
 <li> Co-PI in the NWO-KIC <a href="https://www.nwo.nl/en/news/two-grants-awarded-within-kic-call-data-and-intelligence">HEWSTI</a> project. </li> 
-<li> Co-PI in the DIGITAL Europe <a href="https://www.eitmanufacturing.eu/news-events/activities/cyrus/">CYRUS</a> project. </li> 
 <li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with University of Twente.  </li> 
 </ul>
 

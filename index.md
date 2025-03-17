@@ -1,13 +1,19 @@
-# Katja Tuma
+# Bio
 
 <p style="text-align: left;">
-In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-and-experimental-security-computer-science" target="_blank">Foundational and Experimental Security</a> research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a> within the <a href="https://www.vucompsys.net">Computer Systems</a> group. I hold a Ph.D. in Computer Science and Engineering, which I completed at the <a href="https://www.gu.se" target="_blank">University of Gothenburg</a>. I am an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
+Katja Tuma (PhD, 2021) is an Assistant Professor at Eindhoven University of Technology within the <a href="https://www.tue.nl/en/research/research-groups/computer-science/software-engineering-and-technology-1" target="_blank">SET cluster</a>. She obtained her Ph.D. in Computer Science and Engineering from the University of Gothenburg. She is co-founder and coordinator of <a href="https://hack4her.github.io">Hack4Her</a>, the national women-focused hackathon, co-founder and coordinator of the <a href="https://accss.nl/group/security-ai/">national working group</a> on AI for security and security for AI, and co-organizer of the international workshop <a href="https://demessai.github.io">DeMeSSAI</a>. Her research is at the intersection of software engineering, security and AI, and risk analysis.
+
+</p>
+
+<p style="text-align: left;">
+From 2021-2025 she was Assistant Professor at the <a href="https://vu.nl/en/about-vu/more-about/foundational-and-experimental-security-computer-science" target="_blank">Foundational and Experimental Security</a> research group within the Department of Computer Science at Vrije Universiteit Amsterdam, an active member of <a href="https://eugain.eu">EUGAIN</a> (WG3: From Ph.D. to Professor), and diversity officer for CSE department at the VU.
 </p>
 
 
+<!---
 # News & Impact
 
-<!---
+
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
 
 <p style="text-align: left;">
@@ -17,11 +23,12 @@ In 2021 I joined the <a href="https://vu.nl/en/about-vu/more-about/foundational-
 
 
 <!---
-<IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> --->
+<IMG SRC="hack1.png" style="float: left; width:100%; margin-right: 20px; margin-bottom: 10px"/> 
 
 <p style="text-align: left;">
 Are you a driven student and want to innovate and develop something cool? Hack4Her is the place for you: <a href="https://hack4her.github.io">here</a>. Join us at the Vrije Universiteit in June!
 </p>
+
 
 <ul>
 <li style="text-align: left;">
@@ -30,7 +37,7 @@ Excited to share that I will be speaking at this year's <a href="https://ict-res
 Humbled to have received this year's <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">AYA award</a> in the category for societal impact!
 </li>
 </ul>
-
+--->
 
 
 
@@ -96,7 +103,7 @@ and
 
 ## Talks
 <ul style="text-align: left;">
-<li> ***upcoming*** October 2024, invited speaker at Alice&Eve 2024 in Leiden. </li>
+<li> October 2024, invited speaker at <a href="https://ict-research.nl/2024/03/2023-alice-and-eve/">Alice&Eve 2024</a> in Leiden. </li>
 <li> October 2023, research talk at the Annual Meeting of Society for Risk Analysis in Benelux in Brussels, Belgium. </li>
 <li> September 2023, research talk at the Institute for Programming research and Algorithmics (IPA) Fall Days in Zeewolde, the Netherlands. </li>
 <li> December 2022, research talk at the Annual Meeting of Society for Risk Analysis <a href="https://youtu.be/ZsD39eWz9Ww">see video</a> in Tampa, Florida, US. </li> 
@@ -224,12 +231,13 @@ Organizer
 </h5>
 
 <ul style="text-align: left;">
-<li> Formed an ACCSS working group on Security & AI (upcoming first meeting in September 2024) </li>
-<li> The 4th International Workshop on Designing and Measuring Security in Software with AI (DeMeSSAI) - in submission to ACSAC </li>
+<li> Co-founder of the ACCSS working group on Security & AI </li>
+<li> The 4th International Workshop on Designing and Measuring Security in Software with AI (<a href="https://demessai.github.io">DeMeSSAI 2025</a>) - co-colated with EuroS&P 2025 </li>
 <li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa2023">DeMeSSA 2023</a> </li>
 <li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa-ecsa-2022/home">DeMeSSA 2022</a> </li>
 </ul>
 
+<!---
 <h5 style="text-align: left;">
 Proceedings Co-Chair
 </h5>
@@ -237,6 +245,7 @@ Proceedings Co-Chair
 <ul style="text-align: left;">
 <li> International Conference on Evaluation and Assessment in Software Engineering (EASE) 2022 </li>
 </ul>
+---->
 
 <h5 style="text-align: left;">
 Reviewer
@@ -244,6 +253,7 @@ Reviewer
 
 <ul style="text-align: left;">
 <li> the Information and Software Technology journal (IST) </li> 
+<li> the Empirical Software Engineering journal (EMSE) </li> 
 <li> the Journal of Systems and Software (JSS) </li> 
 <li> the International Journal on Software and Systems Modeling (SoSyM) </li> 
 <li> the Software Quality journal </li> 
@@ -255,8 +265,11 @@ PC Member
 </h5>
 
 <ul style="text-align: left;">
-<li> ESEC/FSE Industry Track 2022 </li> 
-<li> International Workshop on Continuous Software Evaluation and Certification, <a href="https://www.ares-conference.eu/workshops-eu-symposium/iwcsec-2022/">IWCSEC 2022</a> at ARES </li> 
+<li> International Conference on Evaluation and Assessment in Software Engineering (EASE) </li>
+<li> International Conference on the Foundations of Software Engineering  (FSE) Industry </li> 
+<li> International Conference on Availability, Reliability, and Security (ARES) </li>
+<li> International Conference on Model Driven Engineering Languages and Systems (MODELS) </li>
+<li> International Workshop on Continuous Software Evaluation and Certification, IWCSEC 2022 at ARES </li> 
 <li> ACM Cloud Computing Security Workshop (CCSW'21) in conjunction with CCS'21  </li> 
 <li> International Workshop on Graphical Models for Security (GraMSec'20) </li> 
 <li> International Workshop on Security for and by Model-Driven Engineering (SecureMDE'20) </li> 
@@ -272,23 +285,23 @@ Shadow PC
 
 # Where to find me
 
+<!---
 <p align=left>
 <h5>Office</h5>
 New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
 </p>
- 
+---->
 
-<h5>Postal address</h5>
-Vrije Universiteit Amsterdam
-Faculty of Sciences,
-Dept. of Computer Science, 
-De Boelelaan 1111, 
-1081 HV Amsterdam, The Netherlands 
+<p align=left>
+My office is in the MetaForum, 5612 AZ Eindhoven, room 6.089.
+</p>
 
+<!----
 # Fun
 
 <p style="text-align: left;">
-Foraging mushrooms. This is what I see when I look at a forest. Recently, also rock-climbing.
+Foraging mushrooms. This is what I see when I look at a forest. Also rock-climbing.
 </p>
 
 <img src="gobe.png" style="width: 49%;"> <img src="climb.png" style="width: 49%;">
+---->

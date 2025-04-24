@@ -293,7 +293,7 @@ New University (NU) Building, Take entrance 1111, 11th floor, room 11A-57.
 ---->
 
 <p align=left>
-My office is in the MetaForum, 5612 AZ Eindhoven, room 6.089.
+My office is in the MetaForum, 5612 AZ Eindhoven, room 6.098.
 </p>
 
 <!----

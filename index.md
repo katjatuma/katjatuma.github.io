@@ -61,33 +61,44 @@ I am passionate about building and evaluating methods for analyzing security thr
 
 
 <ul style="text-align: left;">
-<li> 
-Empirical methods for security. Designing and conducting controlled experiments, industrial case studies and studies involving human participants. </li>
-<li> 
-Measuring human aspects (e.g., diversity) in security threat analysis. Risk perception, gender bias, diversity processes in technical (i.e., security) domain. 
-</li>
 <li>
-Security4AI and AI4Security. Investigating how to secure AI, how AI could be used to support security activities, and which human factors that play a key role in practice.
+Security4AI and AI4Security. Investigating how to secure AI, how AI could be used safely to security risk management, secure software development.
+</li>
+<li> 
+Empirical methods for security. Evidence-based research is my passion. In my research I design and conducting controlled experiments, industrial case studies and studies involving human participants. 
+</li>
+<li> 
+Measuring human aspects. We are building secure software for people. In my research I also study what human factors (e.g., risk perception, gender bias) play a deciding role in the technical security domain. 
 </li>
 </ul>
 
-Are you interested to do a <b>thesis</b> with me? Find the current thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
+Are you interested to do a <b>thesis</b> with me? Find some examples for thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
 </p>
 
 
 ## Students
 <p style="text-align: left;">
-I have the pleasure to work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
+At TUe, I am daily advisor of Gloria Isedu working on Evaluation of Threat Assessment using AI.
+
+At the VU, I work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
 <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
 and co-supervise
 <a href="https://github.com/fminna">Francesco Minna</a>,
-<a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>, 
-and
-<a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, all brilliant young minds undertaking their PhD studies at the VU.
+<a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and
+<a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>.
 </p>
 
+<p>I served on the grading committee for the PhD defense of <a href="https://scholar.google.com/citations?user=A2f8-I8AAAAJ&hl=sv">Engla Rencelj Ling</a> on the topic of Cyber Security Threat Modeling of Power Grid Substation Automation Systems, supervised by Mathias Ekstedt at KTH, Stockholm, Sweden.
+</p>
 
-## Active projects
+## Awards
+<ul style=>
+<li> <a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE)</li>,
+<li>The <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact</li>
+</ul>
+
+## Projects
+### Active
 <ul style="text-align: left;">
 <li> Co-PI in the Horizon2022 <a href="https://cordis.europa.eu/project/id/101120393">Sec4AI4Sec</a> project. </li> 
 <li> Co-PI in the NWO-KIC <a href="https://www.nwo.nl/en/news/two-grants-awarded-within-kic-call-data-and-intelligence">HEWSTI</a> project. </li> 
@@ -95,7 +106,7 @@ and
 </ul>
 
 
-## Past projects
+### Closed
 <ul style="text-align: left;">
 <li> Lead an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>.  </li> 
 <li> Involved in the Horizon2020 <a href="https://assuremoss.eu/en//">AssureMOSS</a> project. </li> 
@@ -119,6 +130,8 @@ Articles
 </h5>
 
 <ul style="text-align: left;">
+
+For a more updated list, check my <a href="https://scholar.google.se/citations?user=5lOAGbwAAAAJ&hl=en&oi=ao">Google Scholar profile</a>.
 
 <li> W Mbaka, S Gerwen and <b>K. Tuma</b>. <a href="http://dx.doi.org/10.2139/ssrn.4799844">Human Factors in Security Risk Analysis of Software Systems: A Systematic Literature Review</a>, in submission to Computers and Security </li>
  

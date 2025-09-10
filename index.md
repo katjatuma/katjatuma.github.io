@@ -94,8 +94,12 @@ I served on the grading committee for the PhD defense of <a href="https://schola
 
 ## Awards
 <ul style="text-align: left;">
-<li> <a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE)</li>,
-<li>The <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact</li>
+<li> 
+<a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE),
+</li>
+<li>
+The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quality-hack4her-and-inclusion/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact
+</li>
 </ul>
 
 ## Projects

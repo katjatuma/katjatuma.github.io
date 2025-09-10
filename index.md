@@ -82,9 +82,8 @@ At TUe, I am advisor of Gloria Isedu working on Evaluation of Threat Assessment 
 
 <\br>
 At the VU, I work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
-<a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
-and co-supervise
 <a href="https://github.com/fminna">Francesco Minna</a>,
+<a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
 <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and
 <a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>.
 </p>

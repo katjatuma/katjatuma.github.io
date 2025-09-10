@@ -78,7 +78,7 @@ Are you interested to do a <b>thesis</b> with me? Find some examples for thesis 
 
 ## Students
 <p style="text-align: left;">
-At TUe, I am daily advisor of Gloria Isedu working on Evaluation of Threat Assessment using AI.
+At TUe, I am advisor of Gloria Isedu working on Evaluation of Threat Assessment using AI.
 
 <\br>
 At the VU, I work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 

@@ -81,7 +81,7 @@ Are you interested to do a <b>thesis</b> with me? Find some examples for thesis 
 At TUe, I am advisor of Gloria Isedu working on Evaluation of Threat Assessment using AI.
 
 <\br>
-At the VU, I work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
+At the VU, I advise and work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
 <a href="https://github.com/fminna">Francesco Minna</a>,
 <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
 <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and

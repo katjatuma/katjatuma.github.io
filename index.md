@@ -62,7 +62,7 @@ I am passionate about building and evaluating methods for analyzing security thr
 
 <ul style="text-align: left;">
 <li>
-Security4AI and AI4Security. Investigating how to secure AI, how AI could be used safely to security risk management, secure software development.
+Security4AI and AI4Security. Investigating how to secure AI, how AI could be used safely for security risk management and secure software development.
 </li>
 <li> 
 Empirical methods for security. Evidence-based research is my passion. In my research I design and conducting controlled experiments, industrial case studies and studies involving human participants. 
@@ -80,6 +80,7 @@ Are you interested to do a <b>thesis</b> with me? Find some examples for thesis 
 <p style="text-align: left;">
 At TUe, I am daily advisor of Gloria Isedu working on Evaluation of Threat Assessment using AI.
 
+<\br>
 At the VU, I work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
 <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
 and co-supervise
@@ -88,11 +89,12 @@ and co-supervise
 <a href="https://www.linkedin.com/in/sarah-van-gerwen-826331216/?originalSubdomain=nl">Sarah van Garwen</a>.
 </p>
 
-<p>I served on the grading committee for the PhD defense of <a href="https://scholar.google.com/citations?user=A2f8-I8AAAAJ&hl=sv">Engla Rencelj Ling</a> on the topic of Cyber Security Threat Modeling of Power Grid Substation Automation Systems, supervised by Mathias Ekstedt at KTH, Stockholm, Sweden.
+<p style="text-align: left;">
+I served on the grading committee for the PhD defense of <a href="https://scholar.google.com/citations?user=A2f8-I8AAAAJ&hl=sv">Engla Rencelj Ling</a> on the topic of Cyber Security Threat Modeling of Power Grid Substation Automation Systems, supervised by Mathias Ekstedt at KTH, Stockholm, Sweden.
 </p>
 
 ## Awards
-<ul style=>
+<ul style="text-align: left;">
 <li> <a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE)</li>,
 <li>The <a href="https://amsterdamyoungacademy.nl/aya-recognition-rewards-award-2/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact</li>
 </ul>
@@ -106,7 +108,7 @@ and co-supervise
 </ul>
 
 
-### Closed
+### Past
 <ul style="text-align: left;">
 <li> Lead an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>.  </li> 
 <li> Involved in the Horizon2020 <a href="https://assuremoss.eu/en//">AssureMOSS</a> project. </li> 

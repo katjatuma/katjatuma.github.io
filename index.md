@@ -75,6 +75,18 @@ Measuring human aspects. We are building secure software for people. In my resea
 Are you interested to do a <b>thesis</b> with me? Check the topics on TU/e <a href="https://assignments.win.tue.nl/search/?q=katja%20tuma">Master assignments repository</a>. You can find more example thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
 </p>
 
+## Awards & Impact
+<ul style="text-align: left;">
+<li>
+Won the <a href="https://www.linkedin.com/posts/4tu-nirict-netherlands-institute-for-research-on-ict_hack4her-home-activity-7397578349424054272-XI3x?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">4TU.NIRICT</a> fund to lift <a href="https://hack4her.github.io">Hack4Her</a> hackathon to a truly national event from 2026 onwards by bringing it to the TU/e campus and opening the participation and volunteering to 4TU students and staff,
+</li>
+<li> 
+<a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE),
+</li>
+<li>
+The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quality-hack4her-and-inclusion/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact.
+</li>
+</ul>
 
 ## Students
 <p style="text-align: left;">
@@ -92,18 +104,6 @@ At the VU, I advise and work closely with <a href="https://winniebahati.github.i
 I served on the grading committee for the PhD defense of <a href="https://scholar.google.com/citations?user=A2f8-I8AAAAJ&hl=sv">Engla Rencelj Ling</a> on the topic of Cyber Security Threat Modeling of Power Grid Substation Automation Systems, supervised by Mathias Ekstedt at KTH, Stockholm, Sweden.
 </p>
 
-## Awards & Impact
-<ul style="text-align: left;">
-<li>
-Won the <a href="https://www.linkedin.com/posts/4tu-nirict-netherlands-institute-for-research-on-ict_hack4her-home-activity-7397578349424054272-XI3x?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">4TU.NIRICT</a> fund to lift Hack4Her hackathon to a truly national event from 2026 onwards by bringing it to the TU/e campus and opening the participation and volunteering to 4TU students and staff,
-</li>
-<li> 
-<a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE),
-</li>
-<li>
-The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quality-hack4her-and-inclusion/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact.
-</li>
-</ul>
 
 ## Projects
 ### Active
@@ -111,12 +111,12 @@ The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quali
 <li> Co-PI and leader of one out of the two scientific WPs in the National Growth Fund NWONXT GEN Hightech project <a href="https://www.nwo.nl/en/news/over-14-million-euros-for-development-of-new-high-tech-equipment">ECHoFAIR</a>. </li> 
 <li> Co-PI in the Horizon2022 <a href="https://cordis.europa.eu/project/id/101120393">Sec4AI4Sec</a> project. </li> 
 <li> Co-PI in the NWO-KIC <a href="https://www.nwo.nl/en/news/two-grants-awarded-within-kic-call-data-and-intelligence">HEWSTI</a> project. </li> 
-<li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with University of Twente.  </li> 
 </ul>
 
 
 ### Past
 <ul style="text-align: left;">
+<li> Lead an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with University of Twente.  </li> 
 <li> Lead an <a href="https://networkinstitute.org/project_categories/academy-projects-2021/">interdisciplinary project</a> with two students on the topic of diversity in threat analysis in context of the <a href="https://networkinstitute.org/funding/academy-assistants/">Network Institute Academy Assistant (NIAA) program</a>.  </li> 
 <li> Involved in the Horizon2020 <a href="https://assuremoss.eu/en//">AssureMOSS</a> project. </li> 
 </ul>
@@ -138,9 +138,8 @@ The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quali
 Articles
 </h5>
 
-<ul style="text-align: left;">
-
 For a more updated list, check my <a href="https://scholar.google.se/citations?user=5lOAGbwAAAAJ&hl=en&oi=ao">Google Scholar profile</a>.
+<ul style="text-align: left;">
 
 <li> F. Minna, F. Massacci, <b>K. Tuma</b>, <a href="https://link.springer.com/article/10.1007/s10664-025-10688-0">Analyzing and mitigating (with LLMs) the security misconfigurations of Helm charts from Artifact Hub </a>, in Empirical Software Engineering </li> 
 
@@ -151,9 +150,11 @@ For a more updated list, check my <a href="https://scholar.google.se/citations?u
 <li> <b>K. Tuma</b>, S. Peldszus, R. Scandariato, J. Jürjens, <a href="paper-preprints/Tuma2022_Article_CheckingSecurityComplianceBetw-2.pdf">Checking Security Compliance between Models and Code (PDF)</a>, in Journal on Software and Systems Modeling (SoSyM) </li> 
 
 <li> <b>K. Tuma</b>, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, in Journal of Systems and Software (JSS) </li> 
+
+<li> Á Milánkovich, <b>K Tuma</b>. <a href="https://doi.org/10.1109/MSEC.2023.3311464">Delta Security Certification for Software Supply Chains</a> IEEE Security & Privacy Magazine  </li>
 </ul>
  
-<li> Á Milánkovich, <b>K Tuma</b>. <a href="https://doi.org/10.1109/MSEC.2023.3311464">Delta Security Certification for Software Supply Chains</a> IEEE Security & Privacy Magazine  </li>
+
 
 
 <h5 style="text-align: left;">
@@ -263,9 +264,9 @@ Organizer
 </h5>
 
 <ul style="text-align: left;">
-<li> Co-founder of the ACCSS working group on Security & AI </li>
+<li> Co-founder and organizer of the ACCSS working group on <a href="https://secai-accss.github.io">Security & AI</a> </li>
 <li> Co-organizer of the 2026 SEN symposium </li> 
-<li> Co-chair of the new Euromicro SEAA 2026 conference track (https://dsd-seaa.com/): EXTRA - Explainable and Trustworthy Applications </li>
+<li> Co-chair of the new <a href="https://dsd-seaa.com/">Euromicro SEAA 2026</a> conference track: EXTRA - Explainable and Trustworthy Applications </li>
 <li> Co-organizer of the 5th International Workshop on Designing and Measuring Security in Software with AI (<a href="https://demessai.github.io">DeMeSSAI 2026</a>) - co-colated with EuroS&P 2026 </li>
 <li> Co-organizer of the 4th International Workshop on Designing and Measuring Security in Software with AI (<a href="https://demessai.github.io">DeMeSSAI 2025</a>) - co-colated with EuroS&P 2025 </li>
 <li> Co-organizer of the International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa2023">DeMeSSA 2023</a> </li>

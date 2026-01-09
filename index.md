@@ -11,7 +11,7 @@ From 2021-2025 she was Assistant Professor at the <a href="https://vu.nl/en/abou
 
 
 <!---
-# News & Impact
+# News
 
 
 <IMG SRC="hiring.png" style="float: left; width:15%; margin-right: 20px; margin-bottom: 20px"/> 
@@ -72,7 +72,7 @@ Measuring human aspects. We are building secure software for people. In my resea
 </li>
 </ul>
 
-Are you interested to do a <b>thesis</b> with me? Find some examples for thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
+Are you interested to do a <b>thesis</b> with me? Check the topics on TU/e <a href="https://assignments.win.tue.nl/search/?q=katja%20tuma">Master assignments repository</a>. You can find more example thesis topics <a href="https://docs.google.com/document/d/1tkegnctu8-mDEP27_cQ3KED4TXoDhvCIyIf2ogs_3t4/edit?usp=sharing">here</a>!
 </p>
 
 
@@ -92,19 +92,23 @@ At the VU, I advise and work closely with <a href="https://winniebahati.github.i
 I served on the grading committee for the PhD defense of <a href="https://scholar.google.com/citations?user=A2f8-I8AAAAJ&hl=sv">Engla Rencelj Ling</a> on the topic of Cyber Security Threat Modeling of Power Grid Substation Automation Systems, supervised by Mathias Ekstedt at KTH, Stockholm, Sweden.
 </p>
 
-## Awards
+## Awards & Impact
 <ul style="text-align: left;">
+<li>
+Won the <a href="https://www.linkedin.com/posts/4tu-nirict-netherlands-institute-for-research-on-ict_hack4her-home-activity-7397578349424054272-XI3x?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">4TU.NIRICT</a> fund to lift Hack4Her hackathon to a truly national event from 2026 onwards by bringing it to the TU/e campus and opening the participation and volunteering to 4TU students and staff,
+</li>
 <li> 
 <a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE),
 </li>
 <li>
-The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quality-hack4her-and-inclusion/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact
+The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quality-hack4her-and-inclusion/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact.
 </li>
 </ul>
 
 ## Projects
 ### Active
 <ul style="text-align: left;">
+<li> Co-PI and leader of one out of the two scientific WPs in the National Growth Fund NWONXT GEN Hightech project <a href="https://www.nwo.nl/en/news/over-14-million-euros-for-development-of-new-high-tech-equipment">ECHoFAIR</a>. </li> 
 <li> Co-PI in the Horizon2022 <a href="https://cordis.europa.eu/project/id/101120393">Sec4AI4Sec</a> project. </li> 
 <li> Co-PI in the NWO-KIC <a href="https://www.nwo.nl/en/news/two-grants-awarded-within-kic-call-data-and-intelligence">HEWSTI</a> project. </li> 
 <li> Leading an <a href="https://vu-utwente.nl/en/news/2022/1/386617/200k-available-for-internal-call">interdisciplinary project</a> with two students on the topic of diversity in social engineering threats in collaboration with University of Twente.  </li> 
@@ -138,23 +142,28 @@ Articles
 
 For a more updated list, check my <a href="https://scholar.google.se/citations?user=5lOAGbwAAAAJ&hl=en&oi=ao">Google Scholar profile</a>.
 
-<li> W Mbaka, S Gerwen and <b>K. Tuma</b>. <a href="http://dx.doi.org/10.2139/ssrn.4799844">Human Factors in Security Risk Analysis of Software Systems: A Systematic Literature Review</a>, in submission to Computers and Security </li>
- 
-<li> Á Milánkovich, <b>K Tuma</b>. <a href="https://doi.org/10.1109/MSEC.2023.3311464">Delta Security Certification for Software Supply Chains</a> IEEE Security & Privacy Magazine  </li>
+<li> F. Minna, F. Massacci, <b>K. Tuma</b>, <a href="https://link.springer.com/article/10.1007/s10664-025-10688-0">Analyzing and mitigating (with LLMs) the security misconfigurations of Helm charts from Artifact Hub </a>, in Empirical Software Engineering </li> 
+
+<li> E. Mezzi, A. Papotti, F. Massacci, <b>K. Tuma</b>, <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/risa.70059">Risks of ignoring uncertainty propagation in AI-augmented security pipelines</a>, in Risk Analysis </li>
 
 <li> <b>K. Tuma</b> and M. Widman, <a href="https://ieeexplore.ieee.org/abstract/document/9529232">Seven pain points of threat analysis & risk assessment in the automotive domain (IEEE)</a>, in IEEE Security & Privacy Magazine </li> 
 
-
 <li> <b>K. Tuma</b>, S. Peldszus, R. Scandariato, J. Jürjens, <a href="paper-preprints/Tuma2022_Article_CheckingSecurityComplianceBetw-2.pdf">Checking Security Compliance between Models and Code (PDF)</a>, in Journal on Software and Systems Modeling (SoSyM) </li> 
 
-<li> <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, <b>K. Tuma</b>, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, in Journal of Systems and Software (JSS) </li> 
+<li> <b>K. Tuma</b>, C. Sandberg, U. Thorsson, M. Widman, T. Herpel, R. Scandariato, <a href="paper-preprints/tuma-et-al-security-threats-that-mater-preprint.pdf" target="_blank">Finding Security Threats That Matter: Two Industrial Case Studies (PDF)</a>, in Journal of Systems and Software (JSS) </li> 
 </ul>
+ 
+<li> Á Milánkovich, <b>K Tuma</b>. <a href="https://doi.org/10.1109/MSEC.2023.3311464">Delta Security Certification for Software Supply Chains</a> IEEE Security & Privacy Magazine  </li>
+
 
 <h5 style="text-align: left;">
 Conference papers
 </h5>
 
 <ul style="text-align: left;">
+
+<li> E. Mezzi, F. Massacci, <b>K. Tuma</b>, <a href="https://link.springer.com/chapter/10.1007/978-3-032-00627-1_17">Large Language Models Are Unreliable for Cyber Threat Intelligence </a>, in International Conference on Availability, Reliability and Security </li> 
+
 <li> W Mbaka and <b>K Tuma</b>, <a href="https://doi.org/10.1109/MSEC.2023.3343837">Role of Gender in the Evaluation of Security Decisions</a>, IEEE Security & Privacy 
 </li>
 
@@ -181,6 +190,7 @@ A Palheiros da Silva, W Mbaka, J Mayer, JW Bullee, <b>K Tuma</b>, <a href="https
 </li> 
 </ul>
 
+<!---
 <h5 style="text-align: left;">
 Workshop papers
 </h5>
@@ -190,6 +200,7 @@ Workshop papers
 <li> <a href="paper-preprints/Towards%20Security%20Threats%20That%20Matter.pdf" target="_blank">Towards security threats that matter (PDF)</a>, K. Tuma, R. Scandariato, M. Widman, C. Sandberg, Workshop On The Security Of Industrial Control Systems & Of Cyber-Physical Systems (CyberICPS), 2017 </li> 
 <li> <a href="paper-preprints/TumaDesignFlaws_cam_doi.pdf" target="_blank">Inspection Guidelines to Identify Security Design Flaws (PDF)</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019 </li> 
 </ul>
+--->
    
 <h5 style="text-align: left;">
 Dissertation
@@ -206,16 +217,17 @@ Course design and teaching
 </h5>
 
 <ul style="text-align: left;">
-<li> Data Structures and Algorithms for AI (BSc course with 300 students)</li> 
-<li> Software Threat Analysis: Build-It-Break-It-Fix-It, taught to MSc of Computer Security </li> 
+<li> Software Threat Analysis: Build-It-Break-It-Fix-It, is offered on the MSc of Computer Science at TU/e </li> 
+<li> Data Structures and Algorithms for AI, was taught to BSc course with 300 students at the VU</li> 
+<li> Software Threat Analysis: Build-It-Break-It-Fix-It, was taught to MSc of Computer Security at the VU</li> 
 </ul>
 
 <p style="text-align: left;">
-Co-teaching at the VU:
+Co-teaching:
 </p>
 
 <ul style="text-align: left;">
-<li> Security Experiments and Measures, taught by Fabio Massacci to MSc of Computer Security </li> 
+<li> Security Experiments and Measures, MSc of Computer Security </li> 
 <li> Guest lecture in the M.Sc course Software Oriented Design (405061) coordinated and taught by at the Software and Sustainability (S2) research group. </li> 
 </ul>
 
@@ -232,6 +244,7 @@ Previous teaching assistance
 <li> Software Analysis and Design (<a href="https://www.gu.se/en/study-gothenburg/software-analysis-and-design-dit184" target="_blank">DIT184</a>) </li> 
 </ul>-->
 
+<!---
 <h5 style="text-align: left;">
 Supervision
 </h5>
@@ -241,6 +254,7 @@ Supervision
 <li> Towards Automating a Risk-First Threat Analysis Technique. Karanveer Singh, Margit Saal, Andrius Sakalas (B.Sc) </li> 
 <li> Design Flaws as Security Threats. Danial Hosseini, Kyriakos Malamas (M.Sc), co-supervisor  </li> 
 </ul>
+--->
 
 # Service
 
@@ -250,9 +264,12 @@ Organizer
 
 <ul style="text-align: left;">
 <li> Co-founder of the ACCSS working group on Security & AI </li>
-<li> The 4th International Workshop on Designing and Measuring Security in Software with AI (<a href="https://demessai.github.io">DeMeSSAI 2025</a>) - co-colated with EuroS&P 2025 </li>
-<li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa2023">DeMeSSA 2023</a> </li>
-<li> The International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa-ecsa-2022/home">DeMeSSA 2022</a> </li>
+<li> Co-organizer of the 2026 SEN symposium </li> 
+<li> Co-chair of the new Euromicro SEAA 2026 conference track (https://dsd-seaa.com/): EXTRA - Explainable and Trustworthy Applications </li>
+<li> Co-organizer of the 5th International Workshop on Designing and Measuring Security in Software with AI (<a href="https://demessai.github.io">DeMeSSAI 2026</a>) - co-colated with EuroS&P 2026 </li>
+<li> Co-organizer of the 4th International Workshop on Designing and Measuring Security in Software with AI (<a href="https://demessai.github.io">DeMeSSAI 2025</a>) - co-colated with EuroS&P 2025 </li>
+<li> Co-organizer of the International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa2023">DeMeSSA 2023</a> </li>
+<li> Co-organizer of the International Workshop on Designing and Measuring Security in Software Architecture, <a href="https://sites.google.com/view/demessa-ecsa-2022/home">DeMeSSA 2022</a> </li>
 </ul>
 
 <!---
@@ -274,6 +291,7 @@ Reviewer
 <li> the Empirical Software Engineering journal (EMSE) </li> 
 <li> the Journal of Systems and Software (JSS) </li> 
 <li> the International Journal on Software and Systems Modeling (SoSyM) </li> 
+<li> Computers and Security (COSE) </li>
 <li> the Software Quality journal </li> 
 <li> IEEE Vehicular Technology </li> 
 </ul>
@@ -283,8 +301,9 @@ PC Member
 </h5>
 
 <ul style="text-align: left;">
+<li> International Conference on AI Engineering – Software Engineering for AI (CAIN) @ ICSE </li>
 <li> International Conference on Evaluation and Assessment in Software Engineering (EASE) </li>
-<li> International Conference on the Foundations of Software Engineering  (FSE) Industry </li> 
+<li> International Conference on the Foundations of Software Engineering  (FSE) Industry, Demo Track </li>
 <li> International Conference on Availability, Reliability, and Security (ARES) </li>
 <li> International Conference on Model Driven Engineering Languages and Systems (MODELS) </li>
 <li> International Workshop on Continuous Software Evaluation and Certification, IWCSEC 2022 at ARES </li> 

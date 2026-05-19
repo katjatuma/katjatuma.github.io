@@ -224,9 +224,9 @@ Course design and teaching
 <li> XM_0124: Software Threat Analysis: Build-It-Break-It-Fix-It, was taught to MSc of Computer Security at the VU</li> 
 </ul>
 
-<p style="text-align: left;">
+<h5 style="text-align: left;">
 Co-teaching:
-</p>
+</h5>
 
 <ul style="text-align: left;">
 <li> 2IRR00: Software Design at the TU/e</li> 
@@ -262,7 +262,7 @@ Supervision
 # Service
 
 <h5 style="text-align: left;">
-Organizer
+Organization
 </h5>
 
 <ul style="text-align: left;">

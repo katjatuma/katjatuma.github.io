@@ -123,6 +123,7 @@ I served on the grading committee for the PhD defense of <a href="https://schola
 
 ## Talks
 <ul style="text-align: left;">
+<li> April 2026, guest lecture on research in secure software engineering at Seminar Information Security Technology (2IMS00) at TU/e</li> 
 <li> October 2024, invited speaker at <a href="https://ict-research.nl/2024/03/2023-alice-and-eve/">Alice&Eve 2024</a> in Leiden. </li>
 <li> October 2023, research talk at the Annual Meeting of Society for Risk Analysis in Benelux in Brussels, Belgium. </li>
 <li> September 2023, research talk at the Institute for Programming research and Algorithmics (IPA) Fall Days in Zeewolde, the Netherlands. </li>
@@ -218,9 +219,9 @@ Course design and teaching
 </h5>
 
 <ul style="text-align: left;">
-<li> Software Threat Analysis: Build-It-Break-It-Fix-It, is offered on the MSc of Computer Science at TU/e </li> 
-<li> Data Structures and Algorithms for AI, was taught to BSc course with 300 students at the VU</li> 
-<li> Software Threat Analysis: Build-It-Break-It-Fix-It, was taught to MSc of Computer Security at the VU</li> 
+<li> 2IMP35: Software Threat Analysis: Build-It-Break-It-Fix-It, is offered on the MSc of Computer Science at TU/e </li>
+<li> XB_0043: Data Structures and Algorithms for AI, was taught to BSc course with 300 students at the VU</li> 
+<li> XM_0124: Software Threat Analysis: Build-It-Break-It-Fix-It, was taught to MSc of Computer Security at the VU</li> 
 </ul>
 
 <p style="text-align: left;">
@@ -228,8 +229,9 @@ Co-teaching:
 </p>
 
 <ul style="text-align: left;">
-<li> Security Experiments and Measures, MSc of Computer Security </li> 
-<li> Guest lecture in the M.Sc course Software Oriented Design (405061) coordinated and taught by at the Software and Sustainability (S2) research group. </li> 
+<li> 2IRR00: Software Design at the TU/e</li> 
+<li> XM_0098: Security Experiments and Measures, MSc of Computer Security at the VU</li> 
+<li> X_405061: *Guest lecture* in the M.Sc course Software Oriented Design taught by at the Software and Sustainability (S2) research group at the VU</li> 
 </ul>
 
 <p style="text-align: left;">

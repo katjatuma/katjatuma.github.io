@@ -78,10 +78,13 @@ Are you interested to do a <b>thesis</b> with me? Check the topics on TU/e <a hr
 ## Awards & Impact
 <ul style="text-align: left;">
 <li>
+Distinguished Reviewer Award at ACM Secure Development Conference (SecDev 2026) co-located with FSE 2026
+</li>
+<li>
 Won the <a href="https://www.linkedin.com/posts/4tu-nirict-netherlands-institute-for-research-on-ict_hack4her-home-activity-7397578349424054272-XI3x?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">4TU.NIRICT</a> fund to lift <a href="https://hack4her.github.io">Hack4Her</a> hackathon to a truly national event from 2026 onwards by bringing it to the TU/e campus and opening the participation and volunteering to 4TU students and staff,
 </li>
 <li> 
-<a href="https://www.linkedin.com/posts/katjatuma_peerreview-ease2025-ease2025-activity-7341759083298873344-AI3I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54">Best Reviewer Award</a> at the International Conference on Evaluation and Assessment in Software Engineering (EASE),
+Best Reviewer Award at the International Conference on Evaluation and Assessment in Software Engineering (EASE),
 </li>
 <li>
 The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quality-hack4her-and-inclusion/">Amsterdam Young Academy (AYA) Award</a>  in the category for societal impact.
@@ -90,10 +93,10 @@ The <a href="https://amsterdamyoungacademy.nl/aya-rr-awards-2023-education-quali
 
 ## Students
 <p style="text-align: left;">
-At TUe, I am advisor of Gloria Isedu working on Evaluation of Threat Assessment using AI.
+At TUe, I am advisor of <a href="https://www.linkedin.com/in/gloria-isedu-7b5516201/">Gloria Isedu</a> working on Threat Analysis using AI and <a href="https://www.linkedin.com/in/amy-jacobs-26589920a/">Amy Jocobs</a> working on Evaluation of AI-Enhanced Failure Analysis Pipeline.
 
 <br>
-At the VU, I advise and work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
+At the VU, I advised and work closely with <a href="https://winniebahati.github.io">Winnie Mbaka</a>, 
 <a href="https://github.com/fminna">Francesco Minna</a>,
 <a href="https://www.linkedin.com/in/emanuele-mezzi/?originalSubdomain=it">Emanuele Mezzi</a>,
 <a href="https://www.linkedin.com/in/aurora-papotti/?originalSubdomain=nl">Aurora Papotti</a>, and
@@ -203,7 +206,8 @@ Workshop papers
 <li> <a href="paper-preprints/TumaDesignFlaws_cam_doi.pdf" target="_blank">Inspection Guidelines to Identify Security Design Flaws (PDF)</a>, K. Tuma, D. Hosseini, K. Malamas, and R. Scandariato, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019 </li> 
 </ul>
 --->
-   
+
+<!---   
 <h5 style="text-align: left;">
 Dissertation
 </h5>
@@ -211,6 +215,7 @@ Dissertation
 <p style="text-align: left;">
 <a href="paper-preprints/tuma-thesis-digital-copy.pdf" target="_blank">Efficiency and Automation in Threat Analysis of Software Systems (PDF)</a>, K. Tuma, Department of Computer Science and Engineering (University of Gothenburg), defended in January 2021
 </p>
+--->
 
 # Teaching
 
